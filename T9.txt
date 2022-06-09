@@ -4,7 +4,7 @@
 //"spider":"https://gitee.com/maitao007/mao/raw/master/410custom_spider.jar;md5;98a6d241643db3880fe0e7c6e5e8fd4e","spider" : "https://gitee.com/CCSHCoder/APP/raw/master/custom_spider.jar",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/baikan.jar",
 //"spider": "https://gitea.com/mai007/mtv/raw/commit/a6fb2f711efd9015ba97015804f41ccd0aca11f5/w30.jar",
-"spider":"https://github.com/franksun1211/TXT/blob/main/20220601.jar？raw=true",
+"spider":"https://github.com/franksun1211/TXT/blob/main/20220601.jar?raw=true",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/%E6%9C%80%E6%96%B0529.jar",
 "sites":[
 // spider --> custom_spider_1651202998.bmp
