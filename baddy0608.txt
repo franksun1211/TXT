@@ -54,7 +54,6 @@
     },
 // ⇩⇩ APPYSV2 ⇩⇩
 
-{"key":"v2_团夕","name":"团夕(V2)","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch": 0,"filterable":1, "ext":"https://www.kan365.xyz/api.php/app/"},
 
 {
             "key": "csp_xpath_利奥影视",
@@ -66,10 +65,10 @@
             "filterable": 1,
             "ext": "https://gitea.com/samhorse/c/raw/branch/main/xpath/libv.json"
         },
-
+{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/duboku.json"},
+{"key":"csp_biubiu_特狗影视","name":"🥒特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXB/特狗影视.json"},
 // ⇩⇩ XML ⇩⇩
 
-{"key":"诺讯采集","name":"诺讯采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 ],
