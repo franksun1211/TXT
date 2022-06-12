@@ -56,7 +56,16 @@
 
 {"key":"v2_团夕","name":"团夕(V2)","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch": 0,"filterable":1, "ext":"https://www.kan365.xyz/api.php/app/"},
 
-
+{
+            "key": "csp_xpath_利奥影视",
+            "name": "LIBVIO〔XP〕",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/samhorse/c/raw/branch/main/xpath/libv.json"
+        },
 
 // ⇩⇩ XML ⇩⇩
 
