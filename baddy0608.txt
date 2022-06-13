@@ -28,7 +28,7 @@
             "filterable": 1,
             "ext": "https://gitea.com/samhorse/c/raw/branch/main/xpath/libv.json"
         },
-{"key":"csp_xpath_ikan6","name":"爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/ikan6.json"},
+{"key":"csp_xpath_ikan6","name":"爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/ikan6.json"},
 {"key":"csp_xpath_Ole","name":"欧乐(XPF)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/olevod.json"},
 {"key":"csp_xpath_ysjdm","name":"异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/ysjdm.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/agefans.json"},
