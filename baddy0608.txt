@@ -35,16 +35,7 @@
 {"key":"csp_biubiu_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXB/特狗影视.json"},
 {"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXB/555电影.json"},
 {"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXB/影视工厂.json"},
-{
-      "key": "csp_xpath_网络搜集源03",
-      "name": "在线",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
-    },
+
 {"key":"csp_xpath_ysjdm","name":"异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/ysjdm.json"},
 {"key":"csp_xpath_age","name":"AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/agefans.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/dm84.json"},
