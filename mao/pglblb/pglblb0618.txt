@@ -1,5 +1,14 @@
 {
   "sites": [
+{
+      "key": "csp_Cokemv",
+      "name": "Coke🐞",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     //{
       "key": "csp_77",
       "name": "pglblb默认主页",
@@ -46,15 +55,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Cokemv",
-      "name": "Coke🐞",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_XBiubiubiubiu_蓝光影视",
       "name": "蓝光🐞",
