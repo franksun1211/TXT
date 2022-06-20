@@ -9,7 +9,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    //{
+    {
       "key": "csp_77",
       "name": "pglblb默认主页",
       "type": 3,
