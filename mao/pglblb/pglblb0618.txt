@@ -1,6 +1,6 @@
 {
   "sites": [
-    {
+    //{
       "key": "csp_77",
       "name": "pglblb默认主页",
       "type": 3,
@@ -9,7 +9,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_77",
       "name": "七七🏀",
       "type": 3,
@@ -18,36 +18,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_xpath_网络搜集库huaya",
-      "name": "虎牙🎤",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
-    },
-    {
-      "key": "csp_xpath_网络搜集库qiumi",
-      "name": "球迷🏀",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
-    },
-    {
-      "key": "csp_xpath_A33",
-      "name": "MTV🎸",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
-    },
+    
     {
       "key": "csp_CZSPP",
       "name": "厂长🐞",
@@ -551,6 +522,38 @@
       "filterable": 0,
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
     },
+
+{
+      "key": "csp_xpath_网络搜集库huaya",
+      "name": "虎牙🎤",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+    },
+    {
+      "key": "csp_xpath_网络搜集库qiumi",
+      "name": "球迷🏀",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+    },
+    {
+      "key": "csp_xpath_A33",
+      "name": "MTV🎸",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
+    },
+
     {
       "key": "push_Blixs",
       "name": "相声小品",
