@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "csp_Cokemv",
+      "key": "csp_77",
       "name": "pglblb默认主页",
       "type": 3,
-      "api": "csp_Cokemv",
+      "api": "csp_Kunyu77",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
