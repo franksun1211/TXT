@@ -229,7 +229,7 @@
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
-      "name": "影視工厂(B)",
+      "name": "工厂(B)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
