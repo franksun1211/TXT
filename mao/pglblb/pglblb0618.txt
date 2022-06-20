@@ -141,6 +141,12 @@
       "filterable": 1,
       "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
     },
+{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MaooXB/在线之家.json"},
+{"key":"csp_biubiu_喜鹊视频","name":"喜鹊视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://oneclickrun.yuanhsing.cf/MaooXB/喜鹊视频.json"},
+{"key":"csp_xpath_ikan6","name":"爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/ikan6.json"},
+{"key":"csp_xpath_Ole","name":"欧乐(XPF)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/olevod.json"},
+{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/duboku.json"},
+{"key":"csp_appysv2_爱酷社","name":"爱酷(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
     {
       "key": "csp_xpath_网络搜集源03",
       "name": "在线",
@@ -481,6 +487,7 @@
       "filterable": 1,
       "ext": "https://gitea.com/99/x/raw/branch/main/519-dingzidy.json"
     },
+    {"key":"csp_xpath_ysjdm","name":"异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXP/ysjdm.json"},
     {
       "key": "csp_xpath_网络搜集源21",
       "name": "樱花",
