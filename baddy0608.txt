@@ -1,5 +1,5 @@
 {
-"spider":"https://github.com/franksun1211/TXT/blob/main/0608.jar?raw=true",
+"spider":"https://github.com/franksun1211/TXT/blob/main/0627_fix gitcafe.jar?raw=true",
 
 "sites":[
 // ⇩⇩ jar包内东东 ⇩⇩
