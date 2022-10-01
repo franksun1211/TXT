@@ -211,7 +211,7 @@
     },
     {
       "key": "91md.me",
-      "name": "91麻豆",,
+      "name": "91麻豆",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "quickSearch": 1,
