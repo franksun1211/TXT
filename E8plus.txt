@@ -3,7 +3,7 @@
 
     {
       "key": "91md",
-      "name": "91",
+      "name": "91md",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
@@ -20,15 +20,7 @@
       "filterable": 0
     },
 {"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-    {
-      "key": "影库资源",
-      "name": "影库资源",
-      "type": 1,
-      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
   {
       "key": "丝袜资源",
       "name": "丝袜资源",
@@ -48,17 +40,17 @@
       "quickSearch": 1,
       "filterable": 0
     },  
-    {
-      "key": "zp028",
-      "name": "名優館zp028",
+   {
+      "key": "博天堂",
+      "name": "博天堂",
       "type": 0,
-      "api": "http://mygzycj.com/sapi.php?ac=list",
+      "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
+    },  
 
-    
+  { "key": "(18+)JAV名优", "name": "JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },   
     {
       "key": "KK写真资源",
       "name": "KK写真资源(動漫)",
@@ -68,23 +60,35 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/4K狗午夜版.json"},
-{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/爱看影院.json"},
-{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/黄仓库.json"},
-{"key":"csp_biubiu_聚优AV","name":"聚优AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/聚优AV.json"},
-{"key":"csp_biubiu_老鸭TV","name":"老鸭TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/老鸭TV.json"},
-{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/麻豆传媒.json"},
-{"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/麻豆AV.json"},
-{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/四虎影院.json"},
-{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/香蕉视频.json"},
-{"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/新香蕉.json"},
-{"key":"csp_biubiu_新香蕉2","name":"新香蕉2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/新香蕉2.json"},
-{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/GAOAA.json"},
-{"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/GimyTV.json"},
-{"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/香蕉传媒.json"},
-{"key":"csp_biubiu_黄颜仓库","name":"黄颜仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/黄颜仓库.json"},
+{"key":"csp_biubiu_88","name":"88(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/88.json"},
 
-    {
+{
+      "key": "影库资源",
+      "name": "影库资源",
+      "type": 1,
+      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/4K狗午夜版.json"},
+{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/爱看影院.json"},
+{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/黄仓库.json"},
+{"key":"csp_biubiu_聚优AV","name":"聚优AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/聚优AV.json"},
+{"key":"csp_biubiu_老鸭TV","name":"老鸭TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/老鸭TV.json"},
+{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/麻豆传媒.json"},
+{"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/麻豆AV.json"},
+{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/四虎影院.json"},
+{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/香蕉视频.json"},
+{"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/新香蕉.json"},
+{"key":"csp_biubiu_新香蕉2","name":"新香蕉2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/新香蕉2.json"},
+{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/GAOAA.json"},
+{"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/GimyTV.json"},
+{"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/香蕉传媒.json"},
+{"key":"csp_biubiu_黄颜仓库","name":"黄颜仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/黄颜仓库.json"},
+        { "key": "芒果18+", "name": "芒果18+(动漫)", "type": 1, "api": "https://mgzyz1.com/api.php/provide/vod/?ac=list", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+ {"key": "*AIvin","name": "*AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},  
+ {
       "key": "美少女",
       "name": "美少女",
       "type": 0,
@@ -96,15 +100,7 @@
     
    
    
-    {
-      "key": "博天堂",
-      "name": "天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
     {
       "key": "爱播采集",
       "name": "爱播av",
