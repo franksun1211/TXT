@@ -71,6 +71,16 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    
+    {
+"type":8,
+"name":"WWDC2022",
+"api":"https://raw.githubusercontent.com/trial/dp/master/json2/wwdc2022.json"
+},{
+"type":8,
+"name":"Jable",
+"api":"https://raw.githubusercontent.com/trial/dp/master/json2/jable.json"
+},
     {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/4K狗午夜版.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/爱看影院.json"},
 {"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/黄仓库.json"},
