@@ -47,9 +47,9 @@
 
 {"key":"csp_XYQBiu_310直播","name":"⚽🏀310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/310直播.json"},
 {"key":"csp_xpath_ysjdm","name":"💢异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/ysjdm.json"},      
-{"key":"csp_xpath_17skr","name":"💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/axu2tlfh.json"},     
-{"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/omofun.json"},
-{"key":"csp_Anime1","name": "🌸动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_xpath_17skr","name":"🥇💢路漫漫动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/axu2tlfh.json"},     
+{"key":"csp_xp_omofun","name": "🥇💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/omofun.json"},
+{"key":"csp_Anime1","name": "💢小日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/agemys.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
@@ -66,9 +66,9 @@
 
 {"key": "Bili","name": "哔哩","type":3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/ext/B站.txt"},
 
-{"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Zhaozy","name": "资源(挂)","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
-{"key": "AliPS","name": "盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
+//{"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Zhaozy","name": "🔰资源(挂)","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
+{"key": "AliPS","name": "🔰盘搜","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
 {"key": "push_agent","name": "PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"}
 ],
 "drives":[
