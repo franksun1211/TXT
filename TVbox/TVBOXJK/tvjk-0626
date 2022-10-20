@@ -69,7 +69,7 @@
 
 {"key": "Bili","name": "哔哩","type":3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/ext/B站.txt"},
 {"key": "T4","name": "🥇🕵️T4聚合","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://ju990c.i996.me/TS1/token.json","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"t4public","name":"🥇💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "Gitcafe","name": "纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Zhaozy","name": "🔰资源(挂)","type":3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"ab0b9a7555e84175bbc6f8e60310ae49"},
