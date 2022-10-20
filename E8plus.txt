@@ -81,11 +81,53 @@
 "name":"Jable",
 "api":"https://raw.githubusercontent.com/trial/dp/master/json2/jable.json"
 },
+    {
+      "key": "朱古力",
+      "name": "朱古力",
+      "type": 3,
+      "api": "csp_Pig",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Supjav",
+      "name": "Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{"key": "dr_18av","name": "18av(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=18av&ext=txt/js/18/18av.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_banan","name": "banan(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=banan&ext=txt/js/18/banan.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_Missav","name": "Missav(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=Missav&ext=txt/js/18/Missav.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_养端","name": "养端(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=养端&ext=txt/js/18/养端.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_吸瓜","name": "吸瓜(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_朱古力","name": "朱古力(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=朱古力&ext=txt/js/18/朱古力.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_玩偶姐姐","name": "玩偶姐姐(道长)","type": 1,"api": "http://www.fenwe.tk:5705/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable": 2,"quickSearch": 0,"filterable": 0},
 
 
 
-
-    {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/4K狗午夜版.json"},
+{"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/4K狗午夜版.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/爱看影院.json"},
 {"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/黄仓库.json"},
 {"key":"csp_biubiu_聚优AV","name":"聚优AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/MeowXB/18/聚优AV.json"},
@@ -995,5 +1037,7 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/E8plus.jar?raw=true"
+  "spider": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/FongMi.jar"
+  
+  //"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/E8plus.jar?raw=true"
 }
