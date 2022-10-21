@@ -26,7 +26,9 @@
 //{"key":"csp_biubiu_COKEMV","name":"🥇COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXB/COKEMV.json"},
 {"key": "IKan","name": " 🥇爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Zxzj","name": " 🥇在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Jianying","name":"🥇简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw","jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8"},
+{"key":"csp_Jianying","name":"🥇简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNjM4NCwiQ3JlYXRlZEF0IjoiMjAyMi0xMC0yMFQxMDoxNTowMS43MDIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTIwVDEwOjE1OjAxLjcwMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzNTM4MDc1M0BxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJlNDNiYTQ1NC0xMTcwLTQxZTQtOGNiYS1iYzI3ZThlYzM4OGUiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2Njg0MDYxNiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.Zfpavwe3znuKUtqZyXOLuR-m5Smv3duEBGa5Z4OF8ZU","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true;md5;cd152892d6f6bb546b7059a3d23c9e49"},
+{"key": "csp_xpath_olevod","name":"欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
+
 {"key": "csp_AppTT","name": "🥇TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33"},	
 {"key": "Auete","name": "🥇奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "If101","name": "🥇101","type":3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -34,20 +36,12 @@
 {"key":"csp_DiDuan","name":"🥇低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33"},
 {"key": "LiteApple","name": "🥇苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Smdyy","name": "🥇神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Jianying","name":"🥇简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw","jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8"},
+
+
 
 {"key":"csp_xpath_qiumi","name": "🏆⚽🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/dj看球.json"},
 
-{
-      "key": "JRS看球网",
-      "name": "⚽🏀JRS看球网",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/jrskanqiu.json"
-    },
+{"key": "JRS看球网","name": "⚽🏀JRS看球网","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/jrskanqiu.json"},
 
 
 {"key":"csp_XYQBiu_310直播","name":"⚽🏀310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/310直播.json"},
