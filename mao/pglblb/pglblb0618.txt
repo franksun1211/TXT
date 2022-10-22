@@ -1,32 +1,14 @@
 {
   "sites": [
-    {
-      "key": "Zjdr",
-      "name": "追剧达人",
+    
+     {
+      "key": "Lib",
+      "name": "Libvio",
       "type": 3,
-      "api": "csp_Zjdr",
+      "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Auete",
-      "name": "奥特",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Bili",
-      "name": "哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://home.jundie.top:81/ray/json/bili.json"
     },
     {
       "key": "Cokemv",
@@ -46,16 +28,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Gitcafe",
-      "name": "纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://刚刚.live/json/alitoken.json"
-    },
+   
     {
       "key": "If101",
       "name": "101",
@@ -70,6 +43,25 @@
       "name": "爱看",
       "type": 3,
       "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   
+    {
+      "key": "LiteApple",
+      "name": "苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Auete",
+      "name": "奥特",
+      "type": 3,
+      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -92,24 +84,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "LiteApple",
-      "name": "苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "Smdyy",
       "name": "神马",
@@ -136,6 +111,36 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Zjdr",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
+      "key": "Bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://home.jundie.top:81/ray/json/bili.json"
+    },
+     {
+      "key": "Gitcafe",
+      "name": "纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "Zhaozy",
@@ -506,5 +511,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "spider": "https://gitea.com/Tangsan99999/NoWar/raw/branch/main/custom_spider.txt"
 }
