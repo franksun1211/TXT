@@ -93,7 +93,7 @@
 
 ],	
 
-"rules": [
+//"rules": [
   {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
