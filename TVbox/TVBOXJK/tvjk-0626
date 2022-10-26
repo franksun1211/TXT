@@ -2,6 +2,8 @@
 "spider": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt",
 
 //"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.txt?raw=true;md5;7b3db472894cc021c4b19daa26e1282a",
+
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "group": "redirect",
@@ -101,7 +103,7 @@
   {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
   {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
   {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
-]
+],
 
  "parses": [{
 		"name": "解析聚合",
