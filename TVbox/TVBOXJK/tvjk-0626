@@ -93,7 +93,6 @@
 
 ],	
 
-"rules": [{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},{"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},{"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},{"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},{"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}],
 
  "parses": [{
 		"name": "解析聚合",
