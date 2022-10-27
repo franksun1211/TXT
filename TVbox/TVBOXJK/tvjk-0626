@@ -54,7 +54,18 @@
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/agemys.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
-
+{
+      "key": "4K",
+      "name": "4K影视(爬虫)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": "1",
+      "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
+      "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
+    },
 {"key": "Kuaikan","name": "快看","type":3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
