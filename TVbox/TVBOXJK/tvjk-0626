@@ -1,7 +1,9 @@
+//20221029
 {
-//"spider": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt",
+"spider": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt",
+//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
 
-"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.txt?raw=true;md5;61475def578c9badfa28ec17539b950f",
+//"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.txt?raw=true;md5;61475def578c9badfa28ec17539b950f",
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
@@ -18,26 +20,26 @@
     }
   ],
 "sites": [
-
-{"key": "Czsapp","name": " 🥇厂长","type":3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Cokemv","name": " 🥇CokemV","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Lib","name": " 🥇Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Czsapp","name": " 🥇厂长","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Cokemv","name": " 🥇CokemV","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Lib","name": " 🥇Libvio","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_xp_libv","name":"🥇LibVio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/libv.json"},
 
 
+
 //{"key":"csp_biubiu_COKEMV","name":"🥇COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXB/COKEMV.json"},
-{"key": "IKan","name": " 🥇爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Zxzj","name": " 🥇在线","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "IKan","name": " 🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Zxzj","name": " 🥇在线","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Jianying","name":"🥇简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNjM4NCwiQ3JlYXRlZEF0IjoiMjAyMi0xMC0yMFQxMDoxNTowMS43MDIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTIwVDEwOjE1OjAxLjcwMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzNTM4MDc1M0BxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJlNDNiYTQ1NC0xMTcwLTQxZTQtOGNiYS1iYzI3ZThlYzM4OGUiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2Njg0MDYxNiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.Zfpavwe3znuKUtqZyXOLuR-m5Smv3duEBGa5Z4OF8ZU","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true;md5;cd152892d6f6bb546b7059a3d23c9e49"},
 {"key": "csp_xpath_olevod","name":"欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
-{"key":"AppTT","name":"🥇图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppTT","name":"🥇图图","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_AppTT","name": "🥇TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33"},	
-{"key": "Auete","name": "🥇奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "If101","name": "🥇101","type":3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Auete","name": "🥇奥特","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "If101","name": "🥇101","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_剧荒","name":"🥇剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33"},
 {"key":"csp_DiDuan","name":"🥇低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/XC0926w.jar?raw=true;md5;15462016cbe37ba591a6f37e1bf42e33"},
-{"key": "LiteApple","name": "🥇苹果","type":3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Smdyy","name": "🥇神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "LiteApple","name": "🥇苹果","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Smdyy","name": "🥇神马","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 
@@ -54,12 +56,12 @@
 {"key":"csp_xp_agemys","name":"💢AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/agemys.json"},
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
-
+{"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
 {
             "key": "Yanet",
             "name": "鸭奈飞",
             "type": 3,
-            "api": "csp_Yanet",
+            "api": "csp_Dora",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -77,7 +79,7 @@
       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1666791315.txt",
       "ext": "https://agit.ai/xiaohewanwan/atest/raw/branch/master/4kvm.json"
     },
-{"key": "Kuaikan","name": "快看","type":3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": "快看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
