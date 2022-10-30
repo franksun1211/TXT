@@ -1,7 +1,7 @@
 //20221029
 {
-"spider": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt",
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
+//"spider": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
 
 //"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.txt?raw=true;md5;61475def578c9badfa28ec17539b950f",
 
@@ -20,16 +20,20 @@
     }
   ],
 "sites": [
-{"key": "Czsapp","name": " 🥇厂长","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Cokemv","name": " 🥇CokemV","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_CZSPP","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "Czsapp","name": " 🥇厂长","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Cokemv","name":"🥇CokemV","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "Cokemv","name": " 🥇CokemV","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lib","name": " 🥇Libvio","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_xp_libv","name":"🥇LibVio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/libv.json"},
 
 
 
 //{"key":"csp_biubiu_COKEMV","name":"🥇COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXB/COKEMV.json"},
-{"key": "IKan","name": " 🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Zxzj","name": " 🥇在线","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"IKan","name":"🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
+//{"key": "IKan","name": " 🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Zxzj","name":"🥇在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "Zxzj","name": " 🥇在线","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Jianying","name":"🥇简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNjM4NCwiQ3JlYXRlZEF0IjoiMjAyMi0xMC0yMFQxMDoxNTowMS43MDIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEwLTIwVDEwOjE1OjAxLjcwMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzNTM4MDc1M0BxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJlNDNiYTQ1NC0xMTcwLTQxZTQtOGNiYS1iYzI3ZThlYzM4OGUiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2Njg0MDYxNiwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.Zfpavwe3znuKUtqZyXOLuR-m5Smv3duEBGa5Z4OF8ZU","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true;md5;cd152892d6f6bb546b7059a3d23c9e49"},
 {"key": "csp_xpath_olevod","name":"欧乐影院(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/MaooXP/olevod.json"},
 {"key":"AppTT","name":"🥇图图","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1},
