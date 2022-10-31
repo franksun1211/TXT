@@ -67,7 +67,7 @@
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
 {"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
-
+{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "Kuaikan","name": "快看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
