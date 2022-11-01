@@ -67,11 +67,42 @@
 {"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
 {"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
+ {
+            "key" : "Dm84",
+            "name" : "💢84动漫",
+            "type" : "3",
+            "api" : "csp_Dora",
+            "searchable" : "1",
+            "quickSearch" : "1",
+            "filterable" : "1",
+            "ext" : "572192a9fe2136041a58e7219a46fb2b","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.jar?raw=true;md5;96f2e9d946c082363d314fb8ab84de49"
+        },
 {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "Kuaikan","name": "快看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Kunyu","name": "七七","type":3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{
+            "key" : "Hei",
+            "name" : "石榴",
+            "type" : "3",
+            "api" : "csp_Dora",
+            "searchable" : "1",
+            "quickSearch" : "1",
+            "filterable" : "1",
+            "ext" : "3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.jar?raw=true;md5;96f2e9d946c082363d314fb8ab84de49"
+        },
+            {
+            "key" : "Lgyy",
+            "name" : "蓝光",
+            "type" : "3",
+            "api" : "csp_Dora",
+            "searchable" : "1",
+            "quickSearch" : "1",
+            "filterable" : "1",
+            "ext" : "b2e573ff040fcd54b50475660ee1a7d1","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.jar?raw=true;md5;96f2e9d946c082363d314fb8ab84de49"
+        },
+            
+           
 
 //{"key": "SP360","name": "SP360","type":3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Xiaoh","name": "Xiaoh","type":3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
