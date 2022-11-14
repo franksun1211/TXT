@@ -24,7 +24,7 @@
 //{"key": "Czsapp","name": " 🥇厂长","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Cokemv","name":"🥇CokemV","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "Cokemv","name": " 🥇CokemV","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "Lib","name": " 🥇Libvio","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Lib","name": " 🥇Libvio","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_xp_libv","name":"🥇LibVio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/libv.json"},
 
 
