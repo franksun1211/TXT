@@ -52,7 +52,7 @@
             "ext" : "572192a9fe2136041a58e7219a46fb2b","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.jar?raw=true;md5;96f2e9d946c082363d314fb8ab84de49"
         },
 /////////////////////////////////////////////////////////
-
+{"key": "drpy_js_多瑙影视","name": " 🎑多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
 //{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
 
