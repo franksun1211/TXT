@@ -24,7 +24,7 @@
 {"key":"csp_AppTT","name":"🥇TuTu","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"IKan","name":"🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 {"key":"csp_Auete","name":"🥇奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+//{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"小苹果","name":"🥇小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"🥇剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"Smdyy","name":"🥇神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -40,7 +40,7 @@
 //{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/dm84.json"},
 //{"key":"csp_xpath_dm84","name":" 🌾动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/dm84.json"},
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/sub/MeowXP/yinghua.json"},
-{"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
+{"key":"csp_Anfuns","name":"🥇💢Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1"},
  {
             "key" : "Dm84",
             "name" : "💢动漫巴士",
@@ -54,7 +54,7 @@
 /////////////////////////////////////////////////////////
 
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
+//{"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
 
 {"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
