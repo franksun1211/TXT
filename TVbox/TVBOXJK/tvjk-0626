@@ -53,13 +53,13 @@
         },
 /////////////////////////////////////////////////////////
 
-{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
 
-{"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Nkdy","name":"南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Zjdr","name":"追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Ysgc","name":"影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
