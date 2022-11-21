@@ -1,5 +1,13 @@
 {
   "sites": [
+{"key": "dr_18av","name": "18av(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=18av&ext=txt/js/18/18av.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_banan","name": "banan(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=banan&ext=txt/js/18/banan.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_Missav","name": "Missav(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=Missav&ext=txt/js/18/Missav.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_养端","name": "养端(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=养端&ext=txt/js/18/养端.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_吸瓜","name": "吸瓜(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_朱古力","name": "朱古力(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=朱古力&ext=txt/js/18/朱古力.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key": "dr_玩偶姐姐","name": "玩偶姐姐(道长)","type": 1,"api": "https://drpyfork.fenwe521.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable": 2,"quickSearch": 0,"filterable": 0},
+   
 {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/4K狗午夜版.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/爱看影院.json"},
 {"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/黄仓库.json"},
