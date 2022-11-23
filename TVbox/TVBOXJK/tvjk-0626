@@ -1,22 +1,23 @@
 //20221117
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;AB44104CFABC8C6DA7B54124A0C36A5A",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;2491EE374AE8003233E0FA6CC7DFCEE4",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		    "group": "redirect",
 		    "channels": [{
 			    "name": "live",
-			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
+			    "urls": "http://home.jundie.top:81/Cat/tv/live.txt"
 		    }]
 	    }],
 
 
  
 "sites": [
-
-{"key":"Czsapp","name":"🥇厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
-//{"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🥇Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/qj.txt"},
+//{"key":"Czsapp","name":"🥇厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
+//{"key":"csp_Czsapp","name":"🥇厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key":"csp_Lib","name":"🥇LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🥇在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -29,10 +30,10 @@
 {"key":"csp_剧荒","name":"🥇剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"Smdyy","name":"🥇神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy_js_if101","name": "🥇If101[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},
-{"key": "drpy_js_Voflix","name": "Voflix[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/Voflix.js"},
+{"key":"csp_Voflix","name":"🥇Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy_js_欧乐影院","name": "欧乐影院[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","playerType":2,"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧乐影院.js"},
 {"key": "drpy_js_厂长资源","name": "厂长资源[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/厂长资源.js"},
-
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/qj.txt"},
 
 
 
@@ -62,6 +63,16 @@
             "ext" : "572192a9fe2136041a58e7219a46fb2b","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/cs.jar?raw=true;md5;96f2e9d946c082363d314fb8ab84de49"
         },
 /////////////////////////////////////////////////////////
+{"key":"csp_XYQBiu_17kan","name":"🏆⚽🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/17kan.json"},
+{"key": "JRS看球网","name": "⚽🏀JRS赛事直播","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/qiumi.json"},
+{"key":"88看球","name":"🏆⚽🏀88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/88看球.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽🏀310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/310直播.json"},
+{"key": "csp_xpath_球赛直播","name": "⚽🏀球赛","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://wds.ecsxs.com/225738.json"},
+//{"key":"csp_xpath_qiumi","name": "🏆⚽🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXP/jrkan.json"},
+//{"key": "csp_xpath_网络搜集库qiumi","name": " 🌾球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
+
+
+
 {"key": "drpy_js_多瑙影视","name": " 多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
 //{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Lezhu_spider","name":"乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
@@ -94,14 +105,6 @@
 
 
 
-
-{"key":"csp_XYQBiu_17kan","name":"🏆⚽🏀17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/17kan.json"},
-{"key": "JRS看球网","name": "⚽🏀JRS赛事直播","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/qiumi.json"},
-{"key":"88看球","name":"🏆⚽🏀88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/88看球.json"},
-{"key":"csp_XYQBiu_310直播","name":"⚽🏀310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/sub/ext/310直播.json"},
-{"key": "csp_xpath_球赛直播","name": "⚽🏀球赛","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://wds.ecsxs.com/225738.json"},
-//{"key":"csp_xpath_qiumi","name": "🏆⚽🏀球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXP/jrkan.json"},
-//{"key": "csp_xpath_网络搜集库qiumi","name": " 🌾球迷看球️️️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
 
 
 
