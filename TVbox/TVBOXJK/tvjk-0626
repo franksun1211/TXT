@@ -26,7 +26,7 @@
 {"key":"csp_Zxzj","name":"🥇在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🥇低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AppTT","name":"🥇TuTu","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
-{"key":"IKan","name":"🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
+{"key":"IKan","name":"🥇爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
 {"key":"csp_Auete","name":"🥇奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"小苹果","name":"🥇小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -37,7 +37,7 @@
 //{"key": "drpy_js_欧乐影院","name": "欧乐影院[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","playerType":2,"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧乐影院.js"},
 //{"key": "drpy_js_厂长资源","name": "厂长资源[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/厂长资源.js"},
 //{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/qj.txt"},
-{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/729/ts.jar?sign=UG0KTHU-1KtUukSxLfhk69w8ojI3skMA0pGvdenWaO4%3D%3A0"},
+{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
 
 
 /////////////////////////////////////////////////
@@ -100,11 +100,11 @@
 
 
 //{"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
-{"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
-{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
-{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
-//{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
-{"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider.jar?raw=true"},
+{"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
+{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
+{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
+//{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
+{"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
 
 
 //{"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
