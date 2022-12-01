@@ -85,6 +85,17 @@
       "filterable": 1
     },
     {
+            "key": "csp_xBPQ_香蕉中文",
+            "name": "香蕉中文",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "{\"分类url\":\"https://iy54321.com/xjzy/jj/{cateId}-{catePg}.html\", \"分类\":\"中文无码$zhongwenwuma#中文综合$zhongwenzonghe#中文近亲$zhongwenjingqing#中文护士$zhongwenhushi#中文师生$zhongwenshisheng#中文强奸$zhongwenqiangjian#国产自拍$guochanzipai#美女主播$meinvzhubo#三级伦理$sanjizonghe\", \"副标题\":\"duration\\\">&&</div\", \"链接\": \"href=\\\"/xjzy/j&&.html\\\"\", \"链接前缀\": \"https://iy54321.com/xjzy/jplay\", \"链接后缀\": \"-1-1.html\", \"直接播放\": \"1\" }",
+            "jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/spider.jar"
+        },
+    {
       "key": "madouse.la",
       "name": "成人01",
       "type": 1,
