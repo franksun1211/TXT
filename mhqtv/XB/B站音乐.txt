@@ -1,0 +1,81 @@
+{
+  "classes": [
+    {
+      "type_name": "8K",
+      "type_id": "8K"
+    },
+    {
+      "type_name": "4K杜比视界",
+      "type_id": "4K杜比视界"
+    },
+    {
+      "type_name": "4K",
+      "type_id": "4K"
+    },
+    {
+      "type_name": "黑胶",
+      "type_id": "黑胶"
+    },
+    {
+      "type_name": "MV",
+      "type_id": "MV"
+    },
+    {
+      "type_name": "4K小姐姐",
+      "type_id": "4K小姐姐"
+    },
+    {
+      "type_name": "超清小姐姐",
+      "type_id": "超清小姐姐"
+    },
+    {
+      "type_name": "经典粤语",
+      "type_id": "经典粤语"
+    },
+    {
+      "type_name": "经典老歌",
+      "type_id": "经典老歌"
+    },
+    {
+      "type_name": "宝华音乐台",
+      "type_id": "宝华音乐台"
+    },
+     {
+      "type_name": "翻唱",
+      "type_id": "翻唱"
+    },
+    {
+      "type_name": "张学友",
+      "type_id": "张学友"
+    },
+     {
+      "type_name": "伍佰",
+      "type_id": "伍佰"
+    },
+    {
+      "type_name": "陈奕迅",
+      "type_id": "陈奕迅"
+    },
+    {
+      "type_name": "演唱会",
+      "type_id": "演唱会"
+    },
+     {
+      "type_name": "欧美金曲",
+      "type_id": "欧美金曲"
+    },
+    {
+      "type_name": "日韩MV",
+      "type_id": "日韩MV"
+    },
+    {
+      "type_name": "DJ",
+      "type_id": "DJ"
+    }
+
+
+
+
+
+  ]
+} 
