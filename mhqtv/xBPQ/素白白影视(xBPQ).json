@@ -1,0 +1,32 @@
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "素白白影视",
+  "主页url": "https://www.subaibaiys.com",
+  
+  "分类": "电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama#动漫剧$anime-drama",
+  
+  "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
+  
+  
+  "数组": "<li>&&</li>",
+  "副标题": "class=\"jidi\"><span>&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "https://www.subaibaiys.com/grabble?q={wd}&f=_all&p={pg}",
+  "搜索数组": "<li>&&</li>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  
+  "状态": "0",
+  "导演": "导演：&&</li>",
+  "主演": "主演：&&</li>",
+  "简介": "yp_context\">&&</p>",
+  
+  "线路数组": "mi_paly_box\">&&</div>",
+  "线路标题": "ypxingq_t\">&&<span>",
+  
+  "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+  "播放列表": "<a&&/a>",
+  "播放标题": ">&&<[替换:立即播放>>空]",
+  "播放链接": "href=\"&&\""}
