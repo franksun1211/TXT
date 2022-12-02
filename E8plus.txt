@@ -9,6 +9,8 @@
       "quickSearch": 1,
       "filterable": 0
     },
+
+
 {
       "key": "zp067",
       "name": "环亚资源-无码",
@@ -18,7 +20,7 @@
       "quickSearch": 1,
       "filterable": 0
   },
-  
+{"key":"csp_XYQBiu_cableav","name":" cableav(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/XYQBiu/test.json"}, 
   
 {"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod","searchable":1,"quickSearch":1},  
 //{"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
