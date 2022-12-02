@@ -27,10 +27,7 @@
 {"key":"Smdyy","name":"🥇神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy_js_if101","name": "🥇If101[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},
 {"key":"csp_Voflix","name":"🥇Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "drpy_js_欧乐影院","name": "欧乐影院[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","playerType":2,"ext": "https://github.com/heroaku/TVboxo/raw/main/Js/欧乐影院.js"},
-//{"key": "drpy_js_厂长资源","name": "厂长资源[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/厂长资源.js"},
-//{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/qj.txt"},
-{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/736/ts.jar?sign=EBg8XoJcGIBlzL0en5le7C2GDQgftKwMs2r5dBh30Ig%3D%3A0"},
+
 
 
 /////////////////////////////////////////////////
@@ -72,7 +69,7 @@
 {"key": "dr_抓饭体育","name": "⚽🏀抓饭体育(drpy)","type": 3,"api": "http://123.249.89.220:5705/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://123.249.89.220:5705/admin/view/抓饭体育.js"},
 {"key": "dr_抓饭体育","name": "抓饭体育(drpy)","type": 3,"api": "https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://drpyfork.fenwe521.repl.co/admin/view/抓饭体育.js"},
 {"key": "drpy_js_多瑙影视","name": " 多瑙影视[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://github.com/heroaku/TVboxo/raw/main/Js/多瑙影视.js"},
-
+{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/franksun1211/TXT/blob/main/TS/custom_spider.jar?raw=true"},
 {
     "key": "csp_xBPQ_诺讯影视",
     "name": "诺讯",
@@ -115,7 +112,7 @@
 {"key":"T4_douban","name":"🥇🕵️T4聚合","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "T4","name": "🥇🕵️T4聚合","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=https://ju990c.i996.me/TS1/token.json","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"t4public","name":"🥇💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3779824041f446739219805f08431947&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4public","name":"🥇💡T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://onmyway.atwebpages.com/tvbox/1130xc/Gitcafe/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://onmyway.atwebpages.com/tvbox/1130xc/Gitcafe/token.txt"},
