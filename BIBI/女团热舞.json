@@ -1,0 +1,38 @@
+{
+    "cookie": "https://agit.ai/138001380000/MHQTV/raw/commit/37359c2a206cd2c021035b8d67d44b7bb5b6a5aa/bbcookie.txt",
+    "classes": [
+        {
+            "type_name": "舞蹈",
+            "type_id": "舞蹈MV 4K"
+        },
+        {
+            "type_name": "宅舞",
+            "type_id": "宅舞 4K"
+        },
+        {
+            "type_name": "热舞",
+            "type_id": "热舞 4K"
+        },
+        {
+            "type_name": "古风舞蹈",
+            "type_id": "古风舞蹈 4K"
+        },
+        {
+            "type_name": "印度歌舞",
+            "type_id": "印度歌舞 4K"
+        },
+        {
+            "type_name": "中国女团",
+            "type_id": "中国女团 4K"
+        },
+        {
+            "type_name": "日本女团",
+            "type_id": "日本女团 4K"
+        },
+        {
+            "type_name": "韩国女团",
+            "type_id": "韩国女团 4K"
+        }
+    ],
+    "filter": {}
+}
