@@ -1,8 +1,8 @@
 //20221221
 {
 	
-	"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
-	//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6C04A4F7D5670D22A4AF997BC7C83E31",
+	//"spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/Yoursmile.jar?raw=true",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C85CFD3DC93FD68808610103BB9C8898",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/1108zh.txt"]}]}],
  
