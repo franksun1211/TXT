@@ -44,18 +44,10 @@
       "quickSearch": 1,
       "filterable": 0
     }, 
-     {
-      "key": "博天堂",
-      "name": "博天堂",
-      "type": 0,
-      "api": "http://bttfb.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },  
+ 
    {
       "key": "博天堂",
-      "name": "博天堂(X)",
+      "name": "博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
