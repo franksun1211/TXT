@@ -9,6 +9,13 @@
       "quickSearch": 1,
       "filterable": 0
     },
+{"key":"csp_xBPQ_新香蕉中文字幕",
+    "name":"新香蕉中文字幕",
+    "type":3,
+    "api":"csp_xBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"},
 
 
 {
