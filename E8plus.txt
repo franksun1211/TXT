@@ -17,7 +17,16 @@
     "quickSearch":1,
     "filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"},
 
-
+{
+      "key": "csp_Nbys",
+      "name": "❤蜂蜜新泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "viewType": 1,
+      "changeable": 1,
+      "jar": "https://qu.ax/XTuU.jpg"
+    },
 {
       "key": "zp067",
       "name": "环亚资源-无码",
