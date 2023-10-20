@@ -71,11 +71,12 @@
     },
     {
       "key": "PigAV",
-      "name": "PigAV",
+      "name": "朱古力",
       "type": 3,
       "api": "csp_Pig",
       "searchable": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/custom_spider-fm.jar?raw=true;md5;3d3e7fb44db5b51e1ba102d6253c3949"
     },
     {
       "key": "Hanime",
@@ -112,7 +113,83 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    
+     {
+            "key": "csp_xBPQ_香蕉资源",
+            "name": "🏆香蕉资源",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉资源.json"
+        },
+        {
+            "key": "csp_xBPQ_香蕉超清",
+            "name": "🏆香蕉超清",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json"
+        },
+        {
+            "key": "csp_xBPQ_香蕉国产",
+            "name": "🏆香蕉国产",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉国产传媒.json"
+        },
+        {
+            "key": "csp_xBPQ_香蕉久久热",
+            "name": "🏆香蕉久久热",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉久久热.json"
+        },
+        {
+            "key": "csp_xBPQ_香蕉废柴",
+            "name": "🏆香蕉废柴",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json"
+        },
+ {
+            "key": "csp_xBPQ_麻豆映画",
+            "name": "🏆麻豆映画",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆映画.json"
+        },
+        {
+            "key": "csp_xBPQ_香蕉",
+            "name": "🏆香蕉",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+"jar": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/Yoursmile2.jar",
+            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉视频.json"
+        },
     {
       "key": "水蜜桃",
       "name": "水蜜桃",
@@ -162,10 +239,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_biubiu_香蕉AV解说","name":"香蕉AV解说(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/香蕉AV解说.json"},    
-   
-   
-   
     {
       "key": "爱播采集",
       "name": "爱播av",
