@@ -15,7 +15,7 @@
     "api":"csp_xBPQ",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"},
+    "filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://raw.githubusercontent.com/franksun1211/TXT/main/TVbox/App/666/新香蕉中文字幕.json"},
 
 
 {"key": "天美AV","name": "👠天美AV","type": 1,"api": "https://tmav.art/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
