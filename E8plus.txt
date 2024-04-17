@@ -1169,5 +1169,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/0922.jar"
+  "spider": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/0922.jar"
 }
