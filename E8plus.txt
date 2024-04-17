@@ -37,6 +37,14 @@
       "quickSearch": 1,
       "filterable": 0
   },
+ {
+      "key": "Supjav",
+      "name": "❤Supjav",
+      "type": 3,"viewType": 1,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+    },
   
 {"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod","searchable":1,"quickSearch":1},  
 //{"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
