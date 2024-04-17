@@ -47,7 +47,7 @@
 
 
 
-{"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TXT/main/mhqtv/xBPQ/黄仓库.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
+//{"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TXT/main/mhqtv/xBPQ/黄仓库.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
 
 {"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod","searchable":1,"quickSearch":1},  
 //{"key":"*皇冠资源","name":"*皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -246,7 +246,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key": "KOK资源","name": "👠KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+//{"key": "KOK资源","name": "👠KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 {"key":"QQ传媒","name":"👠QQ传媒","type":1,"api":"https://qqcm.sbs/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "鸡坤资源", "name": "👠鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 {
@@ -282,11 +282,11 @@
       "filterable": 0
     }, 
 
-{"key": "zp116","name": "👠泡芙资源","type": 0,"api": "http://zmcj88.com/api?ac=list","searchable": 1,"quickSearch": 0, "filterable": 0},
+//{"key": "zp116","name": "👠泡芙资源","type": 0,"api": "http://zmcj88.com/api?ac=list","searchable": 1,"quickSearch": 0, "filterable": 0},
 
 
-{"key": "滴滴资源","name": "👠滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
-{"key": "蛋蛋视频","name": "👠蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+//{"key": "滴滴资源","name": "👠滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+//{"key": "蛋蛋视频","name": "👠蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 
 {"key": "玉兔资源","name": "👠玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"quickSearch": 0, "filterable": 0 }, 
 
