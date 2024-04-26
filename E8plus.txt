@@ -45,7 +45,16 @@
       "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
     },
 
-
+ {
+      "key": "Hanime",
+      "name": "🏆Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+    },
 
 //{"key":"csp_xBPQ_黄仓库","name":"黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/franksun1211/TXT/main/mhqtv/xBPQ/黄仓库.json","jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
 
