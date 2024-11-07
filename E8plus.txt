@@ -70,7 +70,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Supjav",
       "searchable": 1,
-      "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+      "jar":"https://github.com/guot55/yg/raw/refs/heads/main/jar/pg.jar"
     },
 
  {
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+      "jar":"https://github.com/guot55/yg/raw/refs/heads/main/jar/pg.jar"
     },
 {
       "key": "Jable",
