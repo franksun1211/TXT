@@ -1,4 +1,4 @@
-
+{
 
 //"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
 "spider":"https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar",
