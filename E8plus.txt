@@ -14,26 +14,13 @@
       "filterable": 0
     },
 {
-            "key": "avge",
-            "name": "💗┃💋AVge┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/guot55/yg/raw/main/jar/hl.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://avgle.to",
-                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "class=\"title\"><a*>&&</a >",
-                "链接": "<a href=\"&&\"",
-                "直接播放": "1",
-                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-            }
-},
+      "key": "Supjav",
+      "name": "❤Supjav",
+      "type": 3,"viewType": 1,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
 {
             "key": "农夫与少妇",
             "name": "🔞农夫与少妇",
@@ -64,14 +51,14 @@
             }
         },
 
- {
-      "key": "Supjav",
-      "name": "🏆Supjav",
-      "type": 3,"viewType": 1,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-    },
+ //{
+   //   "key": "Supjav",
+     // "name": "🏆Supjav",
+      //"type": 3,"viewType": 1,
+      //"api": "csp_Supjav",
+      //"searchable": 1,
+      //"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+   // },
 
 
 {
