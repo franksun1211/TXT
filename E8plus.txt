@@ -33,7 +33,7 @@
         },
 
 {"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.4},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm-miss.jar"},
-{"key" : "MissAV🔞","name": "🔞|MissAV(js)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/Missav.js","searchable": 1,"style": {"type": "rect","ratio": 1.4}},
+{"key" : "MissAV🔞","name": "🔞|MissAV(js)","type":3,"api":"https://github.com/franksun1211/TVBOX/raw/main/APP/dr_py/lib/drpy2.min.tac.js","ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/dr_py/JS/Missav.js","searchable": 1,"style": {"type": "rect","ratio": 1.4}},
  {
       "key": "Supjav",
       "name": "🏆Supjav",
