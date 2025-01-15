@@ -31,23 +31,17 @@
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/nfsf.json"
         },
-{
-      "key": "MissAV",
-      "name": "🏆MissAV123",
+
+{"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.4},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm-miss.jar"},
+{"key" : "MissAV🔞","name": "🔞|MissAV(js)","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/Missav.js","searchable": 1,"style": {"type": "rect","ratio": 1.4}},
+ {
+      "key": "Supjav",
+      "name": "🏆Supjav",
       "type": 3,"viewType": 1,
-      "api": "csp_Miss",
+      "api": "csp_Supjav",
       "searchable": 1,
       "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm.jar"
     },
-
- //{
-   //   "key": "Supjav",
-     // "name": "🏆Supjav",
-      //"type": 3,"viewType": 1,
-      //"api": "csp_Supjav",
-      //"searchable": 1,
-      //"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar"
-   // },
 
 
 {
