@@ -70,7 +70,7 @@
     
     
 //{"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78},"jar": "https://github.com/franksun1211/TVBOX/raw/refs/heads/main/APP/JAR/fm.jar"},
-{"key":"Hanime","name":"🏆Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/pg.jar"},
+{"key":"Hanime","name":"🏆Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"jar": "https://github.com/qist/tvbox/raw/master/jar/pg.jar"},
 {"key": "csp_香蕉资源","name": "🏆香蕉中文资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":
 {"站名":"香蕉资源",
 "主页url":"https://su-qq.vip/xjzy/",
