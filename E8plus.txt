@@ -8,7 +8,7 @@
       "key": "91md",
       "name": "🏆91md",
       "type": 1,
-      "api": "https://91md.win/api.php/provide/vod/from/mdm3u8/",
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -34,16 +34,6 @@
 
 {"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.4},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm-miss.jar"},
 {"key" : "MissAV🔞","name": "🔞MissAV(js)","type":3,"api":"https://github.com/franksun1211/TVBOX/raw/main/APP/dr_py/lib/drpy2.min.sq.js","ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/dr_py/JS/Missav.js","searchable": 1,"style": {"type": "rect","ratio": 1.4},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm-miss.jar"},
- {
-      "key": "Supjav",
-      "name": "🏆Supjav",
-      "type": 3,"viewType": 1,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm.jar"
-    },
-
-
 {
       "key": "Jable",
       "name": "🏆Jable",
