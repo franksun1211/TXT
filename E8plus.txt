@@ -84,16 +84,16 @@
 //{"key":"Hanime","name":"🏆Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"jar": "https://github.com/qist/tvbox/raw/master/jar/pg.jar"},
 {"key": "csp_香蕉资源","name": "🏆香蕉中文资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":
 {"站名":"香蕉资源",
-"主页url":"https://https://37llcc.vip/xjzy/",
+"主页url":"https://38hhxx.vip/xjzy/",
 "直接播放":"1",
 "分类":"解说原片$sd-jieshuoyuanpian#3D同人$sd-3Dtongren#中文无码$sd-zhongwenwuma#中文综合$sd-zhongwenzonghe#中文近亲$sd-zhongwenjingqing#中文护士$sd-zhongwenhushi#中文师生$sd-zhongwenshisheng#中文强奸$sd-zhongwenqiangjian#国产自拍$sd-guochanzipai#美女主播$sd-meinvzhubo#三级伦理$sd-sanjizonghe", 
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"/xjzy/sdplay&&.html\"",
 "副标题":"<div class=\"duration\">&&</div>",
-"链接前缀":"https://https://37llcc.vip/xjzy/sdplay",
+"链接前缀":"https://24hhxx.vip/xjzy/sdplay",
 "链接后缀": ".html",
-// https://https://37llcc.vip/xjzy/xplay-cangkuzhongwenIPX981shoudaoquanlisaoraoheqiangjiantaonaimu-1-1-1-1.html
+// https://24hhxx.vip/xjzy/xplay-cangkuzhongwenIPX981shoudaoquanlisaoraoheqiangjiantaonaimu-1-1-1-1.html
 "线路数组":"button&&/a>",
 "线路标题":">&&<",
 "搜索数组":"<div class=\"item\"&&</div>",
@@ -101,10 +101,10 @@
 "搜索标题": "title=\"&&\"",
 "搜索链接": "href=\"/xjzy/sdplay&&.html\"",
 "搜索模式": "1",
-"搜索url":"https://https://37llcc.vip/xjzy/vod/search/page/{catePg}/wd/{wd}.html",
-"搜索链接前缀":"https://https://37llcc.vip/xjzy/sdplay",
+"搜索url":"https://24hhxx.vip/xjzy/vod/search/page/{catePg}/wd/{wd}.html",
+"搜索链接前缀":"https://24hhxx.vip/xjzy/sdplay",
 "搜索链接后缀":"-1-1.html",
-"分类url":"https://https://37llcc.vip/xjzy/{cateId}-{catePg}.html",
+"分类url":"https://24hhxx.vip/xjzy/{cateId}-{catePg}.html",
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"}},
 {"key":"csp_xBPQ香蕉超清","name":"🏆新香蕉超清资源〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
