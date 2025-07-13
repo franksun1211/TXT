@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://gitee.com/juanxiao/bh/raw/master/o.jar",
+"spider":"https://github.com/bizhangjie/CatVodSpider/raw/main/jar/custom_spider.jar",
 
 "lives":[
     
