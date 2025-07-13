@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://github.com/bizhangjie/CatVodSpider/raw/main/jar/custom_spider.jar",
+"spider":"https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar",
 
 "lives":[
     
