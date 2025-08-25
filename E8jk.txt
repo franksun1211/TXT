@@ -70,7 +70,7 @@
 //{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"jar":"https://github.com/qist/tvbox/raw/refs/heads/master/jar/pg.jar"},
 //{"key": "Hanime1","name": "🏆Hanime1","type": 3,"api": "csp_Hanime","searchable": 1,"filterable": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},    
 //{"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78},"jar": "https://github.com/franksun1211/TVBOX/raw/refs/heads/main/APP/JAR/fm.jar"},
-{"key":"Hanime","name":"🏆Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"jar": "https://github.com/qist/tvbox/raw/master/jar/pg.jar"},
+{"key":"Hanime","name":"🏆Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68},"jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"},
 
 {"key":"QQ传媒","name":"👠QQ传媒","type":1,"api":"https://qqcm.sbs/api.php/provide/vod/","searchable":0,"quickSearch":0},
 { "key": "鸡坤资源", "name": "👠鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
@@ -2822,5 +2822,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
