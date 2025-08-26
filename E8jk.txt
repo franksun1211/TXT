@@ -41,7 +41,7 @@
             "ext": "https://raw.githubusercontent.com/guot55/yg/main/lib/nfsf.json"
         },
 
-{"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_MissAV","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.5},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"},
+{"key":"MissAV","name":"🏆MissAV","type":3,"api":"csp_MissAV","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.5},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm-miss.jar"},
 {"key" : "MissAV🔞","name": "🔞MissAV(js)","type":3,"api":"https://github.com/franksun1211/TVBOX/raw/main/APP/dr_py/lib/drpy2.min.sq.js","ext":"https://github.com/franksun1211/TVBOX/raw/main/APP/dr_py/JS/Missav.js","searchable": 1,"style": {"type": "rect","ratio": 1.4},"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/fm-miss.jar"},
 {
       "key": "Jable",
@@ -2822,6 +2822,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
