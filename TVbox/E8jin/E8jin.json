@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/xyqxbpq.jar",
+  "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/xyqxbpq.jar",
   "headers": [
     {
       "host": "aosikazy.com",
@@ -16,18 +16,18 @@
       "key": "🔞javxx",
       "name": "🔞JAVXX",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/JAVXX（优）.js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/JAVXX（优）.js"
     },
     {
       "key": "py_好色",
       "name": "⏭｜好色(恰逢)｜PYTHON",
       "type": 3,
-      "api": "./lib/好色tv.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/好色tv.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -40,7 +40,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
@@ -57,10 +57,10 @@
       "name": "PG｜配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./jar/tokenm.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/tokenm.json",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -71,7 +71,7 @@
       "name": "真心｜配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
-      "jar": "./lib/custom_spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/custom_spider.jar",
       "searchable": 0,
       "changeable": 0,
       "ext": {
@@ -110,7 +110,7 @@
       "key": "py_花都",
       "name": "⏭｜花都(嗷嗚)｜PYTHON",
       "type": 3,
-      "api": "./lib/花都.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/花都.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -120,7 +120,7 @@
       "key": "py_lav.py",
       "name": "⏭｜LAV(嗷嗚)｜PYTHON",
       "type": 3,
-      "api": "./lib/lav.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/lav.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -129,7 +129,7 @@
       "key": "py_推特",
       "name": "⏭｜推特(嗷嗚)｜PYTHON",
       "type": 3,
-      "api": "./lib/py_推特.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_推特.py",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -139,7 +139,7 @@
       "key": "py_rou",
       "name": "⏭｜Rou(沐辰)｜PYTHON",
       "type": 3,
-      "api": "./lib/py_rou.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_rou.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -152,7 +152,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "api": "./lib/py_小红薯.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_小红薯.py",
       "playerType": 2,
       "filterable": 1
     },
@@ -160,7 +160,7 @@
       "key": "Xhm",
       "name": "⏭｜小黃書(嗷嗚)",
       "type": 3,
-      "api": "./lib/py_xhm.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_xhm.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -170,7 +170,7 @@
       "key": "py_MissAv",
       "name": "⏭｜MissAv(沐辰)｜PYTHON",
       "type": 3,
-      "api": "./lib/py_missav.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_missav.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -190,7 +190,7 @@
       "key": "py_吸瓜",
       "name": "⏭｜吸瓜(嗷嗚)｜PYTHON",
       "type": 3,
-      "api": "./lib/吸瓜.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/吸瓜.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -242,7 +242,7 @@
       "key": "py_stripchat",
       "name": "⏭｜py_stripchat",
       "type": 3,
-      "api": "./lib/py_stripchat.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_stripchat.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -252,7 +252,7 @@
       "key": "py_xvd.py",
       "name": "⏭｜xvideos｜PYTHON",
       "type": 3,
-      "api": "./lib/xvd-s.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xvd-s.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -261,7 +261,7 @@
       "key": "py_phb.py",
       "name": "⏭｜Pornhub(new)｜PYTHON",
       "type": 3,
-      "api": "./lib/phb.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/phb.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -274,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/pornhub.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pornhub.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -284,7 +284,7 @@
       "key": "pornhub",
       "name": "⏭｜91Pornhub｜PYTHON",
       "type": 3,
-      "api": "./lib/py_Phb.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_Phb.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -295,7 +295,7 @@
       "name": "⏭｜最色",
       "type": 3,
       "api": "csp_Zuise",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -318,8 +318,8 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/lf_p2p2_min.js",
-      "jar": "./lib/pg.jar",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/lf_p2p2_min.js",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "ext": "18+"
     },
     {
@@ -336,7 +336,7 @@
       },
       "recordable": 0,
       "api": "https://qu.ax/cLnn.js",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "ext": "18+"
     },
     {
@@ -357,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/ggjav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/ggjav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -371,7 +371,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/njavtv.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/njavtv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -385,7 +385,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/njav.com.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/njav.com.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -401,7 +401,7 @@
       "filterable": 1,
       "recordable": 0,
       "api": "csp_Netflav",
-      "jar": "./lib/netflav.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/netflav.jar",
       "ext": "proxy",
       "timeout": 60
     },
@@ -413,7 +413,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/javday.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javday.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -424,8 +424,8 @@
       "name": "🔞JavBus(點選點播才有東西)",
       "type": 3,
       "api": "csp_JavBus",
-      "jar": "./lib/pg.jar",
-      "ext": "./drpy_libs/tokenm.json$$$https://www.cdnbus.shop",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/drpy_libs/tokenm.json$$$https://www.cdnbus.shop",
       "filterable": 1,
       "changeable": 0,
       "style": {
@@ -439,8 +439,8 @@
       "name": "🔞JavDb",
       "type": 3,
       "api": "csp_JavDb",
-      "jar": "./lib/pg.jar",
-      "ext": "./drpy_libs/tokenm.json$$$1",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/drpy_libs/tokenm.json$$$1",
       "filterable": 1,
       "changeable": 0,
       "style": {
@@ -454,8 +454,8 @@
       "name": "🔞JAVDAY",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "主页url": "https://javday.tv/",
         "直接播放": "1",
@@ -477,7 +477,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/av6k.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/av6k.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -491,7 +491,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/javffm.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javffm.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -505,7 +505,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/javtsunami.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javtsunami.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -516,7 +516,7 @@
       "name": "🔞JAVBar",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -541,11 +541,11 @@
       "name": "🔞javrate",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/鑑黃師.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/鑑黃師.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -556,7 +556,7 @@
       "name": "🔞SEAJAV(聚合)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -583,7 +583,7 @@
       "key": "csp_XBPQ_JAV目錄大全",
       "name": "🔞JAV大全",
       "type": 3,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -632,8 +632,8 @@
       "name": "🔞麻豆(沐辰)",
       "type": 4,
       "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 0,
       "changeable": 0,
       "style": {
@@ -649,7 +649,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/麻豆社.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/麻豆社.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -660,8 +660,8 @@
       "name": "🔞爱豆传媒",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "主页url": "https://rourou.co/",
         "直接播放": "1",
@@ -682,7 +682,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/麻豆视频91md.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/麻豆视频91md.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -696,7 +696,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/麻豆集.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/麻豆集.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -710,7 +710,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/麻豆影视.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/麻豆影视.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -724,7 +724,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/91porn.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/91porn.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -738,7 +738,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/91porn_asia.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/91porn_asia.json",
       "style": {
         "type": "rect",
         "ratio": 1.75
@@ -749,7 +749,7 @@
       "name": "🔞91麻豆┃備1",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -758,7 +758,7 @@
       "name": "🔞91麻豆┃備2",
       "type": 1,
       "api": "http://www.9191md.me/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -767,7 +767,7 @@
       "name": "🔞91麻豆┃備3",
       "type": 1,
       "api": "http://www.md91.cc/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -776,7 +776,7 @@
       "name": "🔞91麻豆┃備4",
       "type": 1,
       "api": "http://www.36717.pw/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -785,7 +785,7 @@
       "name": "🔞91麻豆┃備5",
       "type": 1,
       "api": "http://www.bt4.cc/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -794,7 +794,7 @@
       "name": "🔞91麻豆┃備6",
       "type": 1,
       "api": "https://md91.cc/api.php/provide/vod/",
-      "jar": "./lib/xc0126.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xc0126.jar",
       "filterable": 1
     },
     {
@@ -803,7 +803,7 @@
       "type": 3,
       "api": "csp_J91",
       "filterable": 1,
-      "jar": "./lib/182.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/182.jar"
     },
     {
       "key": "csp_XYQHiker_xvideos",
@@ -813,7 +813,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xvideos.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xvideos.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -824,7 +824,7 @@
       "name": "🔞xvideos4",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "是否开启获取首页数据": "1",
         "首页推荐链接": "https://dpmnmv.xvideos4.hair/vodtype/32.html",
@@ -853,12 +853,12 @@
       "key": "hipy_js_avtoday[密]",
       "name": "🔞AVtoday",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/avtoday-改.js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avtoday-改.js"
     },
     {
       "key": "csp_XYQHiker_missav",
@@ -868,7 +868,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/missav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/missav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -882,7 +882,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/missav.app.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/missav.app.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -896,7 +896,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/nowavtv.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/nowavtv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -907,7 +907,7 @@
       "name": "🔞Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./lib/xc0126.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xc0126.jar",
       "filterable": 1
     },
     {
@@ -915,7 +915,7 @@
       "name": "🔞Jable(海外)",
       "type": 3,
       "api": "csp_Jable",
-      "spider": "./jar/pg-0923.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg-0923.jar",
       "changeable": 1,
       "ext": "127.0.0.1:10072$$$null$$$1",
       "style": {
@@ -923,7 +923,7 @@
         "ratio": 1.77
       },
       "timeout": 60,
-      "jar": "./lib/pg-0923.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg-0923.jar"
     },
     {
       "key": "jable",
@@ -931,7 +931,7 @@
       "type": 3,
       "changeable": 1,
       "filterable": 1,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "直接播放": "1",
@@ -959,8 +959,8 @@
       "name": "🔞SOAV(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -985,7 +985,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/jable.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/jable.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1000,7 +1000,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -1018,7 +1018,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "recordable": 0,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "直接播放": "1",
         "嗅探词": ".m3u8#.mp4",
@@ -1034,7 +1034,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/porn87.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/porn87.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1048,7 +1048,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/pornlulu.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pornlulu.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1062,7 +1062,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/spankbang.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spankbang.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1076,7 +1076,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/hdpornmovies.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/hdpornmovies.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1090,7 +1090,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/pornhub.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pornhub.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1100,14 +1100,14 @@
       "key": "Theporn",
       "name": "🔞Theporn(點選點播才有東西)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "changeable": 1,
       "timeout": 60,
       "style": {
         "type": "rect",
         "ratio": 1.5
       },
-      "ext": "./lib/theporn.js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/theporn.js"
     },
     {
       "key": "csp_XYQHiker_御姐诱惑",
@@ -1117,7 +1117,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/御姐诱惑.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/御姐诱惑.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1196,7 +1196,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/后宫电影院.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/后宫电影院.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -1210,7 +1210,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/番号鸽.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/番号鸽.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1224,7 +1224,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/bad.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/bad.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -1238,7 +1238,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/bad搜索1.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/bad搜索1.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -1252,7 +1252,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/bad搜索2.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/bad搜索2.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -1262,7 +1262,7 @@
       "key": "py_4k",
       "name": "🔞4K歐美",
       "type": 3,
-      "api": "./lib/4K.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1272,7 +1272,7 @@
       "key": "py_洋馬",
       "name": "🔞洋馬",
       "type": 3,
-      "api": "./lib/py_洋马.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_洋马.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1283,11 +1283,11 @@
       "name": "🔞鉴黄师",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/鉴黄师.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/鉴黄师.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1300,8 +1300,8 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "ext": "./lib/色花堂.json"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/色花堂.json"
     },
     {
       "key": "csp_XBPQ_蜜",
@@ -1315,7 +1315,7 @@
         "图片": "data-original=\"&&\"",
         "分类": "國產$1#日韓$2#歐美$3#動漫$4#中字$5"
       },
-      "jar": "./lib/xyqxbpq.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar"
     },
     {
       "key": "csp_XYQHiker_苹果av",
@@ -1325,7 +1325,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/苹果av.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/苹果av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1336,7 +1336,7 @@
       "name": "🔞辣椒",
       "type": 1,
       "api": "http://api.11bat.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1344,17 +1344,17 @@
       "key": "hipy_js_地瓜视频[密]",
       "name": "🔞地瓜(點選點播才有東西)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/地瓜视频[密].js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/地瓜视频[密].js"
     },
     {
       "key": "apilj.com",
       "name": "🔞紅椒",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -1367,7 +1367,7 @@
       "name": "🔞送AV采集",
       "type": 1,
       "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1380,7 +1380,7 @@
       "name": "🔞大地采集",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "filterable": 1,
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
@@ -1394,7 +1394,7 @@
       "name": "🔞大地资源",
       "type": 0,
       "api": "http://ddkbo.com/api.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1403,7 +1403,7 @@
       "name": "🔞香奶儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1412,7 +1412,7 @@
       "name": "🔞奶香资源",
       "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -1425,7 +1425,7 @@
       "name": "🔞美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1434,7 +1434,7 @@
       "name": "🔞色猫资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1443,7 +1443,7 @@
       "name": "️🔞乐播采集",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "",
       "filterable": 1,
       "categories": [
@@ -1470,7 +1470,7 @@
       "name": "🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1478,8 +1478,8 @@
       "key": "vv002",
       "name": "️🔞番號",
       "type": 4,
-      "api": "./lib/00title05152.json",
-      "jar": "./lib/xc0126.jar",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/00title05152.json",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xc0126.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1489,7 +1489,7 @@
       "name": "🔞13AV.COM",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -1540,7 +1540,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/18av.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/18av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1551,7 +1551,7 @@
       "name": "🔞155专场",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "",
       "filterable": 1,
       "categories": [
@@ -1589,7 +1589,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/170av.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/170av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1603,7 +1603,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/300分类.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/300分类.json"
     },
     {
       "key": "csp_XYQHiker_444咖啡",
@@ -1613,7 +1613,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/444咖啡.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/444咖啡.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1624,11 +1624,11 @@
       "name": "🔞台湾kiss",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/台灣kiss.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/台灣kiss.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1639,11 +1639,11 @@
       "name": "🔞小嫂子",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/小嫂子.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/小嫂子.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1654,7 +1654,7 @@
       "name": "🔞玉兔资源",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -1670,7 +1670,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/airav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/airav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1680,7 +1680,7 @@
       "key": "py_dsys",
       "name": "🔞蹦迪(點選點播才有東西)",
       "type": 3,
-      "api": "./lib/py_dsys.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_dsys.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1694,7 +1694,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/asianssex.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/asianssex.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1705,8 +1705,8 @@
       "name": "🔞AV影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -1723,7 +1723,7 @@
       "name": "🔞草溜资源",
       "type": 1,
       "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1735,7 +1735,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/hohoj.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/hohoj.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1749,7 +1749,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/ixxxj.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/ixxxj.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1775,7 +1775,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/kanav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/kanav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1789,7 +1789,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/owoav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/owoav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1803,7 +1803,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/ppp.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/ppp.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1817,7 +1817,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/playav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/playav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1843,7 +1843,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/taiav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/taiav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1854,8 +1854,8 @@
       "name": "🔞TaiAv2",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -1880,7 +1880,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/thisav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/thisav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1894,7 +1894,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/tktube.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/tktube.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1908,7 +1908,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xgroovy.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xgroovy.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1918,8 +1918,8 @@
       "key": "vv001",
       "name": "️🔞女優",
       "type": 4,
-      "api": "./lib/00title05151.json",
-      "jar": "./lib/xc0126.jar",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/00title05151.json",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xc0126.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1929,7 +1929,7 @@
       "name": "🔞精东资源",
       "type": 1,
       "api": "http://chujia.cc/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -1942,7 +1942,7 @@
       "name": "Airav",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -1958,9 +1958,9 @@
       "name": "🔞奶很大",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "filterable": 0,
-      "ext": "./lib/奶很大.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/奶很大.json"
     },
     {
       "key": "hav6.beauty",
@@ -1980,14 +1980,14 @@
       "type": 3,
       "api": "csp_HiPianZhiBo",
       "filterable": 1,
-      "jar": "./lib/182.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/182.jar"
     },
     {
       "key": "HuaDu",
       "name": "🔞好多",
       "type": 3,
       "api": "csp_HuaDu",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "changeable": 1
     },
     {
@@ -1995,7 +1995,7 @@
       "name": "🔞精品",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -2009,7 +2009,7 @@
       "type": 3,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}.html",
         "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#动漫番剧$20"
@@ -2020,7 +2020,7 @@
       "name": "🔞老色逼",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -2033,8 +2033,8 @@
       "name": "🔞玩偶妹妹",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
@@ -2051,7 +2051,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/玩偶姐姐.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/玩偶姐姐.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2065,7 +2065,7 @@
       "style": {
         "ratio": 1.7
       },
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "数组": "<section&&</section",
         "副标题": "添加时间:&&</span>",
@@ -2082,7 +2082,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/motv.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/motv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2095,7 +2095,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "分类url": "https://av.gl/avtype/{cateId}-{catePg}.html",
         "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur#歐美成人$Western_Porn"
@@ -2106,7 +2106,7 @@
       "name": "最色",
       "type": 3,
       "api": "csp_Zuise",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -2118,7 +2118,7 @@
       "name": "🔞最色影视",
       "type": 4,
       "api": "http://zhangqun66.com/doll.php",
-      "jar": "./lib/fm.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/fm.jar",
       "searchable": 1,
       "changeable": 0
     },
@@ -2127,7 +2127,7 @@
       "name": "🔞色色影视",
       "type": 4,
       "api": "http://zhangqun66.com/228.php",
-      "jar": "./lib/fm.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/fm.jar",
       "searchable": 1,
       "changeable": 0
     },
@@ -2136,8 +2136,8 @@
       "name": "🔞天美",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
         "数组": "\"box-item\"&&</em>",
@@ -2153,14 +2153,14 @@
       "name": "🔞优异资源",
       "type": 1,
       "api": "https://a.uezy.pw/api.php/provide/vod/",
-      "jar": "./lib/pg.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar"
     },
     {
       "key": "鲨鱼资源",
       "name": "🔞鲨鱼资源",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "changeable": 0,
       "filterable": 1
     },
@@ -2202,8 +2202,8 @@
       "name": "🔞高清黑料3",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "发布地址": "https://xxxxxxav3.com",
@@ -2230,7 +2230,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
@@ -2246,18 +2246,18 @@
       "name": "🔞湿乐园",
       "type": 1,
       "api": "https://xxavs.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar"
     },
     {
       "key": "csp_XYQHiker_小丑撸",
       "name": "🔞小丑撸",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/小丑撸.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/小丑撸.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2268,11 +2268,11 @@
       "name": "🔞正妹AV(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/正妹av.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/正妹av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2283,11 +2283,11 @@
       "name": "🔞有爱爱uaa(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/有爱爱.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/有爱爱.json",
       "style": {
         "type": "rect",
         "ratio": 1.75
@@ -2299,11 +2299,11 @@
       "name": "🔞朱古力",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/朱古力.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/朱古力.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2314,11 +2314,11 @@
       "name": "🔞杏吧视频",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/杏吧视频.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/杏吧视频.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2329,11 +2329,11 @@
       "name": "🔞丽丽AV(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/丽丽av.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/丽丽av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2344,11 +2344,11 @@
       "name": "🔞紫色成人",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/紫色成人.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/紫色成人.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2359,11 +2359,11 @@
       "name": "🔞鲨鱼av",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/鲨鱼av.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/鲨鱼av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2374,8 +2374,8 @@
       "name": "🔞农夫与蛇",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -2397,8 +2397,8 @@
       "name": "🔞蜜桃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "二次截取": "class=\"block-post&&align=\"center",
         "数组": "target=\"_blank&&class=\"info-post",
@@ -2418,7 +2418,7 @@
       "name": "🔞 AVMobTV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2446,7 +2446,7 @@
       "name": "🔞神社影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -2470,7 +2470,7 @@
     {
       "key": "流氓兔",
       "name": "🔞流氓兔",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2496,7 +2496,7 @@
     {
       "key": "果冻破解版",
       "name": "🔞果冻破解",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2525,7 +2525,7 @@
       "name": "🔞百香草",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2551,7 +2551,7 @@
       "name": "🔞风流",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2611,7 +2611,7 @@
       "name": "🔞探探资源",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2620,7 +2620,7 @@
       "name": "🔞森林资源",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2629,7 +2629,7 @@
       "name": "🔞白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "changeable": 0,
       "filterable": 1
     },
@@ -2638,7 +2638,7 @@
       "name": "🔞丝袜资源",
       "type": 1,
       "api": "https://siwazyw.tv/api.php/provide/vod/at/json_now/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -2647,8 +2647,8 @@
       "name": "🔞18j.tv",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "主页url": "https://18j.tv/",
         "直接播放": "1",
@@ -2665,9 +2665,9 @@
       "name": "🔞300分类",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/Aoki.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/Aoki.jar",
       "filterable": 1,
-      "ext": "./lib/300分类.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/300分类.json"
     },
     {
       "key": "Cg51",
@@ -2675,7 +2675,7 @@
       "type": 3,
       "api": "csp_Cg51",
       "filterable": 1,
-      "jar": "./lib/182.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/182.jar"
     },
     {
       "key": "csp_XYQHiker_ACG漫画网",
@@ -2685,7 +2685,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/acg漫画网.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/acg漫画网.json",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -2699,7 +2699,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/avbebe.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avbebe.json",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -2713,7 +2713,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/av淘宝.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/av淘宝.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2724,7 +2724,7 @@
       "name": "🔞AIvin",
       "type": 1,
       "api": "http://lbapiby.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "style": {
@@ -2740,7 +2740,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/bongacams直播.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/bongacams直播.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2754,7 +2754,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/b影院.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/b影院.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2772,14 +2772,14 @@
         "图片": "data-src=\"&&\"",
         "分类": "视频一区$1#视频二区$29#视频三区$47"
       },
-      "jar": "./lib/xyqxbpq.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar"
     },
     {
       "key": "Bi8TV",
       "name": "🔞Bi8TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -2799,7 +2799,7 @@
       "name": "🔞CK资源",
       "type": 1,
       "api": "https://ckzy.me/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "changeable": 0,
       "filterable": 1
     },
@@ -2811,7 +2811,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/hanime1.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/hanime1.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2825,7 +2825,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/jiedm.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/jiedm.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2836,7 +2836,7 @@
       "name": "🔞lovedan艾旦",
       "type": 1,
       "api": "https://lovedan.net/api.php/provide/vod/",
-      "jar": "./lib/xc0126.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xc0126.jar",
       "filterable": 1
     },
     {
@@ -2847,7 +2847,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/p影院.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/p影院.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2861,7 +2861,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/qinav.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/qinav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2875,7 +2875,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/sexsex.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/sexsex.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2889,7 +2889,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/ujizzcn.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/ujizzcn.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2899,10 +2899,10 @@
       "key": "hipy_js_UAA[密]",
       "name": "🔞UAA(點選點播才有東西)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/UAA[密].js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/UAA[密].js"
     },
     {
       "key": "csp_XYQHiker_xHamster",
@@ -2912,7 +2912,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xHamster.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xHamster.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2923,7 +2923,7 @@
       "name": "🔞骏马",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://junmatv.com/vodtype/{cateId}-{catePg}.html",
@@ -2938,8 +2938,8 @@
       "name": "🔞夜夜新郎",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 0,
       "ext": "https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
     },
@@ -2948,7 +2948,7 @@
       "name": "🔞癢癢",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://guochan.yangyangtv13.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
@@ -2962,7 +2962,7 @@
       "name": "🔞滴滴",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "recordable": 0,
       "style": {
@@ -2974,28 +2974,28 @@
       "key": "hipy_js_一点视频[密]",
       "name": "🔞一点视频(點選點播才有東西)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/一点视频[密].js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/一点视频[密].js"
     },
     {
       "key": "hipy_js_爱爱影院[密]",
       "name": "🔞爱爱影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/爱爱影院[密].js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/爱爱影院[密].js"
     },
     {
       "key": "hipy_js_黑料不打烊-z",
       "name": "🔞黑料不打烊-z",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/黑料不打烊-z.js"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/黑料不打烊-z.js"
     },
     {
       "key": "奥斯卡",
@@ -3020,7 +3020,7 @@
       "name": "🔞淫水机资源",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3029,7 +3029,7 @@
       "name": "🔞黄瓜",
       "type": 1,
       "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3038,7 +3038,7 @@
       "name": "🔞葡萄",
       "type": 1,
       "api": "https://caiji.putaozyw.net/inc/apijson_vod_dx.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3054,7 +3054,7 @@
       "name": "🔞鲨鱼",
       "type": 1,
       "api": "http://shayuzy1.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3064,7 +3064,7 @@
       "type": 3,
       "api": "csp_MiMei",
       "filterable": 1,
-      "jar": "./lib/182.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/182.jar"
     },
     {
       "key": "semaozy.com",
@@ -3072,14 +3072,14 @@
       "type": 1,
       "filterable": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "jar": "./lib/pg.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar"
     },
     {
       "key": "vv003",
       "name": "️🔞薇薇珊",
       "type": 4,
-      "api": "./lib/00title05153.json",
-      "jar": "./lib/xc0126.jar",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/00title05153.json",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xc0126.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -3089,8 +3089,8 @@
       "name": "🔞高清小黄片",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "主页url": "http://gqxhp.top/",
         "分类": "高清一区$1#高清二区$2#高清三区$3#高清福利$33",
@@ -3102,12 +3102,12 @@
       "name": "🔞女优色库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
-      "ext": "./lib/女优.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/女优.json"
     },
     {
       "key": "小幺女|床吧",
@@ -3115,7 +3115,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "站名": "小幺女",
@@ -3147,8 +3147,8 @@
       "name": "🔞天堂岛",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "主页url": "https://www.ttdao666.buzz",
@@ -3172,8 +3172,8 @@
       "name": "🔞手鸡助手",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "请求头": "手机",
         "直接播放": "1",
@@ -3202,15 +3202,15 @@
         "分类ID": "/gaotype/&&.html",
         "分类url": "https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"
       },
-      "jar": "./lib/xyqxbpq.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar"
     },
     {
       "key": "成人重口",
       "name": "🔞成人重口",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "发布地址": "1:https://www.crzk11.buzz/,2:www.crzk3.top",
@@ -3235,8 +3235,8 @@
       "name": "🔞纤纤倫理",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "playerType": 1,
       "filterable": 1,
       "ext": {
@@ -3272,8 +3272,8 @@
       "name": "🔞亚瑟影库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "主页url": "https://www.yasetube.com/",
         "直接播放": "1",
@@ -3298,7 +3298,7 @@
       "name": "🔞玉兔资源",
       "type": 1,
       "api": "https://yutuzy10.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3307,14 +3307,14 @@
       "name": "🔞老鸨资源",
       "type": 1,
       "api": "http://laobaozy.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar"
     },
     {
       "key": "老色逼资源",
       "name": "🔞老色逼资源(采集)",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3323,7 +3323,7 @@
       "name": "🔞博天堂",
       "type": 0,
       "api": "http://bttcjz.com/inc/sapi.php",
-      "jar": "./lib/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -3332,7 +3332,7 @@
       "name": "🔞肉視頻(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
         "直接播放": "1",
@@ -3344,8 +3344,8 @@
       "name": "🔞色最色(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "主页url": "https://xn--zovv42dba.com/",
         "直接播放": "1",
@@ -3369,16 +3369,16 @@
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
-      "ext": "./lib/我爱AV.json",
-      "jar": "./lib/xyqxbpq.jar"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/我爱AV.json",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar"
     },
     {
       "key": "我爱AV",
       "name": "🔞我爱AV社区",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "playerType": 2,
       "filterable": 1,
       "ext": {
@@ -3400,7 +3400,7 @@
       "name": "🔞沙咖影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "filterable": 1,
       "ext": {
         "数组": "stui-vodlist__thumb lazyload&&</a",
@@ -3422,8 +3422,8 @@
       "name": "🔞花影视(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "ext": {
         "数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
         "图片": "data-original=\"&&\"",
@@ -3439,23 +3439,23 @@
       "name": "🔞暗网(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
-      "ext": "./lib/暗网.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/暗网.json"
     },
     {
       "key": "csp_XYQHiker_中国性味",
       "name": "🔞中国性味",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/中国性味.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/中国性味.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3466,11 +3466,11 @@
       "name": "🔞台湾kiss",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/台湾kiss.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/台湾kiss.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3481,11 +3481,11 @@
       "name": "🔞亚色影库",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/亚色影库.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/亚色影库.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -3496,11 +3496,11 @@
       "name": "🔞亚洲色吧(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/亚洲色吧.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/亚洲色吧.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3511,11 +3511,11 @@
       "name": "🔞动漫PRO(點選點播才有東西)",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/动漫pro.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/动漫pro.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3526,11 +3526,11 @@
       "name": "🔞好色TV",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/好色tv.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/好色tv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3541,11 +3541,11 @@
       "name": "🔞色库TV",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/色库tv.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/色库tv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3556,11 +3556,11 @@
       "name": "🔞直播1",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/直播1.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/直播1.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3571,7 +3571,7 @@
       "name": "🔞直播2",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -3581,7 +3581,7 @@
         "请求头参数": "手机",
         "网页编码格式": "UTF-8",
         "分类起始页码": "1",
-        "分类链接": "./lib/jsonDancelife.txt",
+        "分类链接": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/jsonDancelife.txt",
         "分类名称": "直播",
         "分类名称替换词": "",
         "分类截取模式": "0",
@@ -3609,11 +3609,11 @@
       "name": "🔞直播大全",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/直播大全.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/直播大全.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3624,11 +3624,11 @@
       "name": "🔞热骚",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/热骚.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/热骚.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3639,11 +3639,11 @@
       "name": "🔞黄色仓库123",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/黄色仓库123.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/黄色仓库123.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3654,11 +3654,11 @@
       "name": "🔞黄色仓库啦",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/黄色仓库啦.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/黄色仓库啦.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3669,11 +3669,11 @@
       "name": "🔞酷爱成人网",
       "type": 3,
       "api": "csp_XYQHiker",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/酷爱成人网.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/酷爱成人网.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -3684,7 +3684,7 @@
       "name": "🔞微密猫(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "主页url": "https://maobao.vip/",
         "首页": "无圣光视频$wushebgguang/无圣光视频",
@@ -3702,8 +3702,8 @@
       "name": "🔞金陵撸铁汉",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
         "直接播放": "1",
@@ -3724,7 +3724,7 @@
       "name": "🔞绝美视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -3740,7 +3740,7 @@
       "name": "🔞sexBJcam",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "timeout": 120,
       "style": {
         "type": "rect",
@@ -3759,9 +3759,9 @@
       "name": "🔞蓝金鱼AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
       "页面代理": "127.0.0.1:10172",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "主页url": "https://cezeoj.ljyav7.beauty/cn/home/web/",
         "直接播放": "1",
@@ -3774,8 +3774,8 @@
       "name": "🔞农夫&少妇(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "spider": "./jar/pg.jar",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/pg.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3790,7 +3790,7 @@
       "name": "🔞婶婶(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3811,7 +3811,7 @@
       "name": "🔞妻妹(點選點播才有東西)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3834,7 +3834,7 @@
       "name": "🔞弟弟",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3867,7 +3867,7 @@
       "name": "🔞香蕉中文资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3902,7 +3902,7 @@
       "name": "🔞新香蕉超清资源〔xBPQ〕",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3938,7 +3938,7 @@
       "name": "🔞香蕉AV解说",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -3973,7 +3973,7 @@
       "name": "🔞香蕉久久热",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -4008,7 +4008,7 @@
       "name": "🔞新香蕉国产传媒",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -4043,7 +4043,7 @@
       "name": "🔞香蕉废柴网",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4077,7 +4077,7 @@
       "key": "py_香蕉",
       "name": "🔞香蕉",
       "type": 3,
-      "api": "./lib/py_香蕉.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_香蕉.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4091,7 +4091,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xtoons.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xtoons.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -4105,7 +4105,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/youjizz.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/youjizz.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -4116,17 +4116,17 @@
       "name": "🔞比卡比卡",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
-      "spider": "./jar/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+      "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/xyqxbpq.jar",
       "filterable": 1,
-      "ext": "./lib/比卡比卡.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/比卡比卡.json"
     },
     {
       "key": "csp_顶级网曝",
       "name": "🔞顶级网曝",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "playerType": 2,
       "filterable": 0,
       "ext": {
@@ -4153,16 +4153,16 @@
       "name": "🔞疯猫av",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "filterable": 0,
-      "ext": "./lib/疯猫av.json"
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/疯猫av.json"
     },
     {
       "key": "蜜桃屯",
       "name": "🔞蜜桃屯",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "二次截取": "class=\"block-post&&align=\"center",
         "数组": "target=\"_blank&&class=\"info-post",
@@ -4182,7 +4182,7 @@
       "name": "🔞KISSAV(女优)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4208,7 +4208,7 @@
       "name": "🔞KISSAV(标签)",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4234,7 +4234,7 @@
       "name": "🔞KISSAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4260,7 +4260,7 @@
       "name": "🔞猛男日妓",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4285,7 +4285,7 @@
       "key": "最爱扒裤衩",
       "name": "🔞最爱扒裤衩",
       "type": 3,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -4301,7 +4301,7 @@
       "name": "🔞农夫少妇",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4316,7 +4316,7 @@
       "name": "🔞AV小次郎",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4343,7 +4343,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
       "ext": {
         "分类url": "https://hsds1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "国产❤️AV$1#日本と无码$9#欧美$2#麻豆传媒$3#明星❤️AI$4#三级伦理$6#5D动漫$7"
@@ -4353,7 +4353,7 @@
       "key": "py_色播",
       "name": "🔞色色直播",
       "type": 3,
-      "api": "./lib/py_色播.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_色播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4364,7 +4364,7 @@
       "name": "🔞天天",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4387,7 +4387,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/hanime1.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/hanime1.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -4401,7 +4401,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/jiedm.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/jiedm.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -4415,7 +4415,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xtoons.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xtoons.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -4429,7 +4429,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/动漫pro.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/动漫pro.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -4443,7 +4443,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/acg漫画网.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/acg漫画网.json",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -4457,7 +4457,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/avbebe.json",
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avbebe.json",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -4474,7 +4474,7 @@
     {
       "name": "私密線路(18+)",
       "playerType": 2,
-      "url": "./lib/178.txt",
+      "url": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/178.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
     },
     {
