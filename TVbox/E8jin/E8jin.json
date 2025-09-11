@@ -116,26 +116,7 @@
       "filterable": 0,
       "changeable": 0
     },
-    {
-      "key": "py_spank",
-      "name": "⏭｜spank｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spank.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "py_avple",
-      "name": "⏭｜avple｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avple.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+  
     {
       "key": "py_lav.py",
       "name": "⏭｜LAV(嗷嗚)｜PYTHON",
@@ -166,20 +147,20 @@
       "changeable": 0
     },
      {
-      "key": "py_stgay",
+      "key": "spank",
       "name": "⏭｜stgay｜PYTHON",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_stgay.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spank.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
     },
      {
-      "key": "py_mrav",
-      "name": "⏭｜mrav｜PYTHON",
+      "key": "avple",
+      "name": "⏭｜avple｜PYTHON",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_mrav.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avple.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
