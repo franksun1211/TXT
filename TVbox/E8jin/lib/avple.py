@@ -1,72 +1,122 @@
 #!/usr/bin/python
-import sys
-sys.path.append('..')
-from base.spider import Spider
+# -*- coding: utf-8 -*-
+import requests
+import re
 import json
 import urllib.parse
-import re
 
-class Spider(Spider):
-    
-    def getName(self):
-        return "Avple.tv"
-    
-    def init(self, extend=""):
+
+class Spider:
+    def __init__(self):
         self.host = "https://avple.tv"
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'Accept-Encoding': 'gzip, deflate, br',
-            'Connection': 'keep-alive',
-            'Referer': self.host
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
-        self.log(f"{self.getName()} 爬虫初始化完成，主站: {self.host}")
 
-    def isVideoFormat(self, url):
-        return False
+    def log(self, msg):
+        print(msg)
 
-    def manualVideoCheck(self):
-        return True
+    def fetch(self, url, headers=None):
+        return requests.get(url, headers=headers or self.headers, timeout=10)
 
-    def homeContent(self, filter):
-        """获取首页内容和分类"""
-        result = {}
-        classes = self._getCategories()
-        result['class'] = classes
+    def homeContent(self):
+        """抓首頁影片"""
         try:
-            rsp = self.fetch(self.host, headers=self.headers)
+            rsp = self.fetch(self.host)
             html = rsp.text
             videos = self._getVideos(html)
-            result['list'] = videos
+            return videos
         except Exception as e:
-            self.log(f"首页获取出错: {str(e)}")
-            result['list'] = []
-        return result
+            self.log(f"首頁錯誤: {e}")
+            return []
 
-    def homeVideoContent(self):
-        """首页视频内容（可留空）"""
-        return {'list': []}
-
-    def categoryContent(self, tid, pg, filter, extend):
-        """分类内容"""
+    def searchContent(self, key, pg="1"):
+        """搜尋影片"""
         try:
-            pg_int = int(pg)
-            if tid == 'trending':
-                url = f"{self.host}/trending/daily/{pg_int}"
-            elif tid == 'latest':
-                url = f"{self.host}/latest/{pg_int}"
-            else:
-                url = f"{self.host}/tags/{str(tid)}/{pg_int}/date"
-
-            self.log(f"访问分类URL: {url}")
-            rsp = self.fetch(url, headers=self.headers)
+            search_url = f"{self.host}/search/{urllib.parse.quote(key)}/{pg}"
+            self.log(f"搜尋URL: {search_url}")
+            rsp = self.fetch(search_url)
             html = rsp.text
-
             videos = self._getVideos(html)
+            return videos
+        except Exception as e:
+            self.log(f"搜尋錯誤: {e}")
+            return []
 
-            pagecount = 999
-            limit = 24
+    def detailContent(self, vid):
+        """抓影片詳情"""
+        try:
+            detail_url = f"{self.host}/video/{vid}"
+            self.log(f"詳情URL: {detail_url}")
+            rsp = self.fetch(detail_url)
+            html = rsp.text
+            title = self._regStr(r'<h1 class="text-white text-lg font-bold">([^<]+)</h1>', html)
+            desc = self._regStr(r'<div id="detail-desc"[^>]*>([\s\S]*?)</div>', html)
+            return {
+                "vod_id": vid,
+                "vod_name": title or f"影片 {vid}",
+                "vod_content": desc or "暫無簡介"
+            }
+        except Exception as e:
+            self.log(f"詳情錯誤: {e}")
+            return {}
+
+    def _getVideos(self, html):
+        """解析影片清單"""
+        videos = []
+        try:
+            # 先試 JSON-LD
+            json_ld_match = re.search(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', html, re.DOTALL)
+            if json_ld_match:
+                try:
+                    data = json.loads(json_ld_match.group(1).strip())
+                    if '@graph' in data:
+                        for item in data['@graph']:
+                            if item.get('@type') == 'ListItem':
+                                vid = item['item'].split("/")[-1]
+                                title = item.get('name', '未知')
+                                videos.append({"vod_id": vid, "vod_name": title})
+                except Exception as e:
+                    self.log(f"JSON-LD 解析錯誤: {e}")
+
+            # fallback 正則
+            if not videos:
+                self.log("⚠️ JSON-LD 沒抓到，改用正則解析...")
+                item_pattern = r'<a[^>]+href="/video/(\d+)"[^>]*>.*?<h2[^>]*?>(.*?)</h2>'
+                items = re.findall(item_pattern, html, re.DOTALL)
+                for vid, title in items:
+                    videos.append({"vod_id": vid, "vod_name": title.strip()})
+        except Exception as e:
+            self.log(f"_getVideos 出錯: {e}")
+        return videos
+
+    def _regStr(self, pattern, string):
+        """正則取第一個匹配"""
+        try:
+            match = re.search(pattern, string, re.DOTALL)
+            return match.group(1).strip() if match else ""
+        except Exception:
+            return ""
+
+
+if __name__ == "__main__":
+    spider = Spider()
+
+    print("=== 測試首頁 ===")
+    home = spider.homeContent()
+    print("抓到首頁影片數:", len(home))
+    print(home[:5])
+
+    print("\n=== 測試搜尋 (麻豆) ===")
+    search = spider.searchContent("麻豆")
+    print("抓到搜尋影片數:", len(search))
+    print(search[:5])
+
+    if home:
+        print("\n=== 測試詳情 (取首頁第一個影片) ===")
+        vid = home[0]["vod_id"]
+        detail = spider.detailContent(vid)
+        print(detail)            limit = 24
             total = 999999
 
             if not videos and pg_int == 1:
