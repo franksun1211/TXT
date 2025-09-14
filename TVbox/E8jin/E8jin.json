@@ -10,19 +10,30 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "版本：114.09.11",
+  "notice": "版本：114.09.14",
   "sites": [
+       
     {
-      "key": "🔞javxx",
-      "name": "🔞JAVXX",
+      "key": "py_Miss",
+      "name": "⏭｜MissAV(沐辰)｜T4",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Miss",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+      {
+      "key": "py_lav.py",
+      "name": "⏭｜LAV(嗷嗚)｜PYTHON",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/drpy2.min.js",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/lav.py",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/JAVXX（优）.js"
+      "filterable": 1
     },
+    
+    
     {
       "key": "py_好色",
       "name": "⏭｜好色(恰逢)｜PYTHON",
@@ -52,60 +63,7 @@
         "直接播放": "1"
       }
     },
-    {
-      "key": "PG配置",
-      "name": "PG｜配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jar/tokenm.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-    },
-    {
-      "key": "真心配置",
-      "name": "真心｜配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/custom_spider.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TV/peizhi.json"
-      }
-    },
-    {
-      "key": "潇洒配置",
-      "name": "潇洒｜配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "牛二配置",
-      "name": "牛二｜配置中心",
-      "type": 3,
-      "api": "csp_Wexconfig",
-      "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/wex.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
+   
     {
       "key": "py_花都",
       "name": "⏭｜花都(嗷嗚)｜PYTHON",
@@ -116,108 +74,8 @@
       "filterable": 0,
       "changeable": 0
     },
-  
-    {
-      "key": "py_lav.py",
-      "name": "⏭｜LAV(嗷嗚)｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/lav.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_推特",
-      "name": "⏭｜推特(嗷嗚)｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_推特.py",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-    },
-    {
-      "key": "py_rou",
-      "name": "⏭｜Rou(沐辰)｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_rou.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+      
      {
-      "key": "spank",
-      "name": "⏭｜stgay｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/spank.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-     {
-      "key": "avple",
-      "name": "⏭｜avple｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avple.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "小红书",
-      "name": "⏭｜小淫书(嗷嗚)｜PYTHON",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_小红薯.py",
-      "playerType": 2,
-      "filterable": 1
-    },
-    {
-      "key": "Xhm",
-      "name": "⏭｜小黃書(嗷嗚)",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_xhm.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "py_MissAv",
-      "name": "⏭｜MissAv(沐辰)｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_missav.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Miss",
-      "name": "⏭｜MissAV(沐辰)｜T4",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=Miss",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "py_吸瓜",
-      "name": "⏭｜吸瓜(嗷嗚)｜PYTHON",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/吸瓜.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
       "key": "py_BadNews",
       "name": "⏭｜BadNews(沐辰)｜PYTHON",
       "type": 4,
