@@ -24,6 +24,14 @@
       "changeable": 0
     },
     {
+      "key": "Supjav",
+      "name": "🏆Supjav",
+      "type": 3,"viewType": 1,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+    {
       "key": "py_lav.py",
       "name": "🏆LAV(嗷嗚)｜PYTHON",
       "type": 3,
@@ -34,22 +42,14 @@
     },
     {
       "key": "四虎视频.py",
-      "name": "四虎视频",
+      "name": "四虎视频｜國產",
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/四虎视频.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "avple.py",
-      "name": "AVPLE",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avple.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     
     {
       "key": "Jable",
@@ -64,14 +64,7 @@
         "ratio": 1.77
       }
     },
-    {
-      "key": "Supjav",
-      "name": "🏆Supjav",
-      "type": 3,"viewType": 1,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
-    },
+    
      {
       "key": "PigAV",
       "name": "🏆朱古力",
@@ -79,7 +72,7 @@
       "api": "csp_Pig",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+      "jar": "https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
       "key": "py_好色",
