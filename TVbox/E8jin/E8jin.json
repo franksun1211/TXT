@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "20250914",
+  "notice": "[E8]20250914",
   "sites": [
        
     {
@@ -42,10 +42,10 @@
       "filterable": 1
     },
     {
-      "key": "永乐视频.py",
-      "name": "永乐视频",
+      "key": "avple.py",
+      "name": "AVPLE",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/永乐视频.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/avple.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
