@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "版本：114.09.14",
+  "notice": "20250914",
   "sites": [
        
     {
@@ -23,7 +23,7 @@
       "filterable": 0,
       "changeable": 0
     },
-      {
+    {
       "key": "py_lav.py",
       "name": "🏆LAV(嗷嗚)｜PYTHON",
       "type": 3,
@@ -32,6 +32,25 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "四虎视频.py",
+      "name": "四虎视频",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/四虎视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "永乐视频.py",
+      "name": "永乐视频",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/永乐视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
     {
       "key": "Jable",
       "name": "🏆Jable",
