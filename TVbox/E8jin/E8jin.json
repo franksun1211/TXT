@@ -15,7 +15,7 @@
        
     {
       "key": "py_Miss",
-      "name": "⏭｜MissAV(沐辰)｜T4",
+      "name": "🏆MissAV(沐辰)｜T4",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=Miss",
       "searchable": 1,
@@ -25,15 +25,43 @@
     },
       {
       "key": "py_lav.py",
-      "name": "⏭｜LAV(嗷嗚)｜PYTHON",
+      "name": "🏆LAV(嗷嗚)｜PYTHON",
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/lav.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
+    {
+      "key": "Jable",
+      "name": "🏆Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "Supjav",
+      "name": "🏆Supjav",
+      "type": 3,"viewType": 1,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+    },
+     {
+      "key": "PigAV",
+      "name": "🏆朱古力",
+      "type": 3,
+      "api": "csp_Pig",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
+    },
     {
       "key": "py_好色",
       "name": "⏭｜好色(恰逢)｜PYTHON",
@@ -77,7 +105,7 @@
       
      {
       "key": "py_BadNews",
-      "name": "⏭｜BadNews(沐辰)｜PYTHON",
+      "name": "🏆BadNews(沐辰)｜PYTHON",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=BadNews",
       "searchable": 1,
