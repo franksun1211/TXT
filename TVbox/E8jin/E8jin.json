@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "[E8]20250914",
+  "notice": "[E8]20250915",
   "sites": [
        
     {
@@ -56,7 +56,7 @@
       "name": "🏆Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jable_custom_spider.jar",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -72,7 +72,7 @@
       "api": "csp_Pig",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar"
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jable_custom_spider.jar"
     },
     {
       "key": "py_好色",
