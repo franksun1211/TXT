@@ -29,7 +29,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Supjav",
       "searchable": 1,
-      "jar":"https://github.com/franksun1211/TXT/blob/main/TVbox/E8jin/supjav.js"
+      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
       "key": "py_lav.py",
@@ -72,7 +72,7 @@
       "api": "csp_Pig",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jable_custom_spider.jar"
+      "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/JAR/custom_spider-fm.jar"
     },
     {
       "key": "py_好色",
