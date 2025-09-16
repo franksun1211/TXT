@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "[E8]20250917",
+  "notice": "[E8]20250917-1",
   "sites": [
        
     {
@@ -49,8 +49,24 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
-    
+    {
+      "key": "香蕉.py",
+      "name": "香蕉视频",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/香蕉.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "javxbb.py",
+      "name": "javxbb",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javxbb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "Jable",
       "name": "🏆Jable",
