@@ -41,6 +41,15 @@
       "filterable": 1
     },
     {
+      "key": "51吸瓜.py",
+      "name": "51吸瓜",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/51吸瓜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "四虎视频.py",
       "name": "四虎视频｜國產",
       "type": 3,
@@ -293,6 +302,20 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/ggjav.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
+    },
+    {
+      "key": "csp_XYQHiker_badnews",
+      "name": "🔞badnews",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/badnews.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
