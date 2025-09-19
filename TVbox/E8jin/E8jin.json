@@ -73,15 +73,87 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    {
+      "key": "actor.py",
+      "name": "actor",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/actor.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lav.py",
+      "name": "lav",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/lav.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Mang.py",
+      "name": "Mang",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/Mang.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Phb.py",
+      "name": "Phb",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/Phb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "rou.py",
+      "name": "rou",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/rou.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Xhm.py",
+      "name": "Xhm",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/Xhm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Xvd.py",
+      "name": "Xvd",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/Xvd.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "中文X直播.py",
+      "name": "中文X直播",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/中文X直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "香蕉.py",
+      "name": "香蕉",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/香蕉.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     
     {
       "key": "51吸瓜.py",
