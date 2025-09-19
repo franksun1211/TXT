@@ -17,7 +17,7 @@ class Spider(Spider):
         return "lav"
 
     def init(self, extend=""):
-        self.id = self.ms(self.t)[:16]
+        self.id = self.ms(str(int(time.time() * 1000)))[:16]
         pass
 
     def isVideoFormat(self, url):
@@ -47,7 +47,7 @@ class Spider(Spider):
              'oauth_id': self.id}
 
         body = self.aes(j)
-        data = self.post(f'{self.host}/api.php?t={self.t}', data=body, headers=self.headers).json()['data']
+        data = self.post(f'{self.host}/api.php?t={str(int(time.time() * 1000))}', data=body, headers=self.headers).json()['data']
         data1 = self.aes(data, False)['data']
         self.r = data1['r']
         for i, d in enumerate(data1['avTag']):
@@ -91,7 +91,7 @@ class Spider(Spider):
                  'oauth_id': self.id, 'page': str(pg), 'tag': id[0]}
 
         body = self.aes(j)
-        data = self.post(f'{self.host}/api.php?t={self.t}', data=body, headers=self.headers).json()['data']
+        data = self.post(f'{self.host}/api.php?t={str(int(time.time() * 1000))}', data=body, headers=self.headers).json()['data']
         data1 = self.aes(data, False)['data']
         videos = []
         if tid == 'avsearch' and len(id) == 1:
@@ -119,7 +119,7 @@ class Spider(Spider):
              'app_type': 'rn', 'os_version': '12.0.5', 'version': '3.2.3', 'oauth_type': 'android_rn',
              'oauth_id': self.id, 'id': id}
         body = self.aes(j)
-        data = self.post(f'{self.host}/api.php?t={self.t}', data=body, headers=self.headers).json()['data']
+        data = self.post(f'{self.host}/api.php?t={str(int(time.time() * 1000))}', data=body, headers=self.headers).json()['data']
         data1 = self.aes(data, False)['line']
         vod = {}
         play = []
@@ -131,7 +131,7 @@ class Spider(Spider):
                 a = '.'.join(b)
                 play.append(itt['info']['tips'] + "$" + a)
                 break
-        vod["vod_play_from"] = 'LAV'
+        vod["vod_play_from"] = '老僧酿酒'
         vod["vod_play_url"] = "#".join(play)
         result = {"list": [vod]}
         return result
