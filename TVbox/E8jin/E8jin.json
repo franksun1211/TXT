@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "[E8]20250918",
+  "notice": "[E8]20250919",
   "sites": [
 
     {
@@ -64,6 +64,25 @@
         "ratio": 1.5
       }
      },
+    {
+      "key": "4K数毛.py",
+      "name": "4K数毛",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/4K数毛.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "key": "51吸瓜.py",
       "name": "51吸瓜",
