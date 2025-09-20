@@ -73,17 +73,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "redflix.py",
-      "name": "redflix",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/redflix.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
    
-  
     {
       "key": "rou.py",
       "name": "rou",
