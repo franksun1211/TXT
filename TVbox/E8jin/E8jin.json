@@ -64,7 +64,57 @@
         "ratio": 1.5
       }
      },
+     {
+      "key": "javxx.py",
+      "name": "JAVXX",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javxx.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    
+    
     {
+      "key": "javxbb.py",
+      "name": "javxbb",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javxbb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
+      "key": "Jable",
+      "name": "🏆Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jable_custom_spider.jar",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+     
+      {
+      "key": "py_madou",
+      "name": "🔞麻豆(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=MaDou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+     },
+{
       "key": "4K数毛.py",
       "name": "4KHD",
       "type": 3,
@@ -111,7 +161,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
+    {
+      "key": "eporner.py",
+      "name": "eporner",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/eporner.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "51吸瓜.py",
       "name": "51吸瓜",
@@ -139,44 +197,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "javxbb.py",
-      "name": "javxbb",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javxbb.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Jable",
-      "name": "🏆Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jable_custom_spider.jar",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-    },
-     
-      {
-      "key": "py_madou",
-      "name": "🔞麻豆(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=MaDou",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-     },
-
     ////================================================================================
 {
       "key": "py_好色",
