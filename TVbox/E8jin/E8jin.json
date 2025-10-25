@@ -197,6 +197,33 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "云云.py",
+      "name": "云云",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/云云.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "motv.py",
+      "name": "motv",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/motv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "无码抖音.py",
+      "name": "无码抖音",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/无码抖音.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     ////================================================================================
 {
       "key": "py_好色",
@@ -731,7 +758,20 @@
         "ratio": 1.6
       }
     },
-   
+   {
+      "key": "csp_XYQHiker_17av",
+      "name": "🔞17av",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/17av.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
+    },
    
     {
       "key": "chujia.cc",
