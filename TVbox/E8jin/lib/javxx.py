@@ -196,12 +196,11 @@ class Spider(Spider):
         # 解密初始URL
         url = self.de_url(id)
         parsed_url = urlparse(url)
-        durl = parsed_url.scheme + "://" + parsed_url.netloc
         video_id = parsed_url.path.split('/')[-1]
         
         # 生成加密的token
         tkid = self.encrypt_video_id(video_id)
-        data_url = f"{durl}/stream?token={tkid}"      
+        data_url = f"https://surrit.store/stream?src=javxx&poster=&token={tkid}"      
         
         # 请求视频流数据
         response = requests.get(data_url, timeout=10)   
@@ -216,15 +215,15 @@ class Spider(Spider):
         # 构建请求头并返回结果
         headers = {
             'user-agent': self.headers['user-agent'], 
-            'origin': durl, 
-            'referer': f"{durl}/"
+            'origin': 'https://surrit.store', 
+            'referer': 'https://surrit.store/'
         }
         return {'parse': 0, 'url': playeurl, 'header': headers}
 
     def encrypt_video_id(self, video_id, key=None):
         """使用指定密钥对视频ID进行XOR加密并Base64编码"""
         if key is None:
-            key = "kBxSj373GhC18iOc"  # 默认密钥
+            key = "ym1eS4t0jTLakZYQ"  # 更新为第二个密钥
         
         # XOR加密
         key_bytes = key.encode('utf-8')
@@ -239,7 +238,7 @@ class Spider(Spider):
         encrypted_base64 = base64.b64encode(bytes(encrypted_bytes)).decode('utf-8')
         return encrypted_base64
 
-    def decrypt_media(self, encrypted_media, key="kBxSj373GhC18iOc"):
+    def decrypt_media(self, encrypted_media, key="ym1eS4t0jTLakZYQ"):
         """使用指定密钥解密媒体数据"""
         # Base64解码
         encrypted_bytes = base64.b64decode(encrypted_media)
