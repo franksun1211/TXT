@@ -559,9 +559,7 @@
         "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
     "ads": [
-        "static-mozai.4gtv.tv"
-    ],
-    "doh": [
+        "static-mozai.4gtv.tv"mianfeibuhuaqian[
         {
             "name": "✨阿里DNS✨",
             "url": "https://dns.alidns.com/dns-query",
