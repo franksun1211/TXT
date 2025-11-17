@@ -1,0 +1,28 @@
+var rule = {
+  类型: '影视',
+  title: '97色网【密】',
+  host: 'https://fsdz97swpiq.buzz',
+  url: '/type/id/fyclass/fypage.html',
+  searchUrl: '/seek/**/s/fypage.html',
+  searchable: 2,
+  quickSearch: 0,
+  filterable: 1,
+  filter_def: {},
+  headers: {
+    'User-Agent': 'MOBILE_UA',
+  },
+  timeout: 5000,
+  class_parse: '.cat-wrap a:lt(95);a&&title;a&&href;.*/(\\d+)',
+  cate_exclude: '中文字幕|人妻熟女|无码专区|自淫系列|',
+  play_parse: true,
+  double: true,
+  推荐: '.group-box .group-contents;a;a&&title;img&&data-src;.layui-badge&&Text;a&&href',
+  一级: '.group-contents .layui-col-md3;.layui-col-md3&&title;img&&data-src;.layui-badge&&Text;.layui-col-md3&&href',
+  二级: {
+    title: 'h1&&Text',
+    img: 'img&&src',
+    tabs: '.group-box h3',
+    lists: '.group-box h3:eq(#id)&&a',
+  },
+  搜索: '*',
+}

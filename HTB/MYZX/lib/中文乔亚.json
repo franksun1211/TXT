@@ -1,0 +1,11 @@
+{
+                "直接播放": "1",
+                "嗅探词": ".m3u8#.mp4#video.mpd?",
+                "数组": "<article&&</article>",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "<span class=\"hd-video\">&&</span>",
+                "链接": "href=\"&&\"",
+                "分类": "最新视频$?filter=latest#FC2$FC2#AV字幕$AV자막#AV乳母$AV유모#AV熟女$AV노모#韩国色情$한국야동#色情自拍$자포르노#角色扮演$코스푸리#疯狂射精$정액매니아#日本超清$일본HDV#日本高清$JAVHD#中国传媒$중국야동#AV女优$actor#热门视频$?filter=most-viewed#推荐视频$?filter=popular#分类$tags",
+                "分类url": "https://avjoa61.com/category/{cateId}/page/{catePg}/;;ma"
+            }

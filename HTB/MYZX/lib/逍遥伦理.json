@@ -1,0 +1,9 @@
+{
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.hahads.com/show/20-----------.html",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://www.hahads.com/show/20-{cateId}-------{catePg}---.html",
+        "分类": "大陆&香港&台湾&美国&法国&英国&日本&韩国&泰国&印度&西班牙&加拿大&俄罗斯&新加坡&其它",
+        "分类值": "*"
+      }
