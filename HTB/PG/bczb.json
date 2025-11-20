@@ -72,7 +72,11 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-       
+       {"name": "🌹┃全球VPN「直播」","type": 0,"url": "http://104.168.87.147:26268/source/freetv.txt","playerType":1},
+{"name": "🪂┃四季VPN「直播」","type": 0,"url": "http://xtvantsc.xyz/litv_ts.php","playerType":1},
+{"name": "🎞️┃jackTV「直播」","type":0,"url":"https://php.946985.filegear-sg.me/jackTV.m3u","ua": "","timeout": 10,"playerType": 2},
+{"name": "🍌┃jacktv「直播」","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}},
+
         {
             "name": "冰茶",
             "type": 0,
