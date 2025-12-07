@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "[E8jin]20251205 🍒",
+  "notice": "[E8jin]20251207 🍆",
   "sites": [
 
     {
@@ -65,17 +65,59 @@
       }
      },
      {
-      "key": "javxx.py",
-      "name": "JAVXX",
+      "key": "91.py",
+      "name": "91",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/javxx.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/91.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
-    
+     {
+      "key": "E佬通用视频.py",
+      "name": "E佬通用视频",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/E佬通用视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "NatFlav.py",
+      "name": "NatFlav",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/NatFlav.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "七哥大洋马.py",
+      "name": "七哥大洋马",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/七哥大洋马.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "瓜子.py",
+      "name": "瓜子",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/瓜子.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "菠萝七区.py",
+      "name": "菠萝七区",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/菠萝七区.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "javxbb.py",
       "name": "javxbb",
