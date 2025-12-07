@@ -1,0 +1,81 @@
+{
+    "spider": "./yifan.jar;md5;875ce871703d1c382e0498711b9d3ba0",
+    "logo": "https://github.com/vs194/tvbox/raw/main/Q.jpg",
+    "sites": [
+        {
+            "key": "jable",
+            "name": "Jable",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "api": "csp_GM",
+            "ext": {
+                "userScript": "./drpy_js/jable.user.js",
+                "debug": false,
+                "webViewSettings": {
+                    "blockNetworkImage": true,
+                    "blockList": [
+                        "*.ico*",
+                        "*.png*",
+                        "*.css*",
+                        "https://*.adsco.re/*",
+                        "https://*.googleapis.com/*",
+                        "https://*.googlesyndication.com/*",
+                        "https://*.googletagmanager.com/*",
+                        "https://*.hpyjmp.com/*",
+                        "https://*.magsrv.com/*",
+                        "https://*.mnaspm.com/*",
+                        "https://*.shukriya90.com/*",
+                        "https://*.tapioni.com/*",
+                        "https://*.tsyndicate.com/*",
+                        "https://assets.jable.tv/assets/js/player.js"
+                    ]
+                },
+                "spider": {
+                    "homeContent": {
+                        "loadUrl": "https://jable.tv/"
+                    },
+                    "categoryContent": {
+                        "loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
+                    },
+                    "detailContent": {
+                        "loadUrl": "https://jable.tv/videos/${id}/"
+                    },
+                    "searchContent": {
+                        "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
+                    }
+                }
+            }
+        },
+        {
+            "key": "Hanime",
+            "name": "Hanime",
+            "type": 3,
+            "api": "./drpy_js/Hanime.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "91",
+            "name": "91",
+            "type": 3,
+            "api": "./drpy_js/91.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "有声黄文",
+            "name": "有声黄文",
+            "type": 3,
+            "api": "./drpy_js/ysxs.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0
+        }
+    ]
+}
