@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "[E8jin]20251207 🍆",
+  "notice": "[E8jin]20251216 🍠",
   "sites": [
 
     {
@@ -73,16 +73,30 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
-      "key": "E佬通用视频.py",
-      "name": "E佬通用视频",
+     
+    {
+      "key": "py_xiaoji.py",
+      "name": "小雞",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/E佬通用视频.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_xiaoji.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    
+    {
+      "key": "csp_XYQHiker_女优",
+      "name": "🔞nowAV",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/女优.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
      {
       "key": "七哥大洋马.py",
       "name": "七哥大洋马",
