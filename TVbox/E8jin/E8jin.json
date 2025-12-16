@@ -83,20 +83,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_XYQHiker_女优",
-      "name": "🔞nowAV",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/女优.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
+    
      {
       "key": "七哥大洋马.py",
       "name": "七哥大洋马",
