@@ -13,6 +13,30 @@
             "indexs": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/douban.json"
         },
+          {
+            "key": "✨高清福利社✨",
+            "name": "🏆✨高清福利社✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/高清福利社.json"
+        },
+        {
+      "key": "Zuise",
+      "name": "🏆✨最色✨",
+      "type": 3,
+      "api": "csp_Zuise",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "proxy"
+    },
         {
             "key": "✨85PO✨",
             "name": "✨85PO✨",
@@ -47,6 +71,19 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/FC2官网.json"
         },
+        {
+      "key": "Jable",
+      "name": "🏆✨Jable✨",
+      "type": 3,
+      "api": "csp_Jable",
+      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/jable_custom_spider.jar",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
         {
             "key": "✨黑猫AV✨",
             "name": "✨黑猫AV✨",
@@ -181,18 +218,7 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/水果派解说.json"
         },
-        {
-            "key": "✨高清福利社✨",
-            "name": "✨高清福利社✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/高清福利社.json"
-        },
+      
         {
             "key": "✨爱你影视✨",
             "name": "✨爱你影视✨",
@@ -425,6 +451,18 @@
             "timeout": 60,
             "ext": ""
         },
+        {
+      "key": "JKUN(采集)",
+      "name": "🔞JKUN",
+      "type": 1,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
+    },
         {
             "key": "✨BLSGod✨",
             "name": "✨BLSGod|磁✨",
