@@ -1,5 +1,6 @@
 {
     "spider": "./pg.jar",
+    "notice": "[JSM]FK20260103",
     "sites": [
         {
             "key": "✨豆瓣✨",
