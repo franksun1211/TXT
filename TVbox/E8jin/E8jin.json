@@ -732,7 +732,7 @@
       "key": "JKUN(采集)",
       "name": "🔞JKUN",
       "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "style": {
