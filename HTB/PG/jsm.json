@@ -146,10 +146,10 @@
             "changeable": 1
         },
         {
-            "key": "✨test✨",
-            "name": "✨test✨",
+            "key": "✨九个区✨",
+            "name": "✨九个区✨",
             "type": 3,
-            "api": "./PY/test.py",
+            "api": "./PY/九个区.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
