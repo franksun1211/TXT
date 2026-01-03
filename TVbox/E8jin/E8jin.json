@@ -10,7 +10,7 @@
   ],
   "logo": ".美.gif",
   "wallpaper": "https://picsum.photos/1080/",
-  "notice": "[E8jin]20251225 🍠",
+  "notice": "[E8jin]20260103 🍠",
   "sites": [
 
     {
@@ -1384,6 +1384,14 @@
         }
       }
     },
+    
+
+    {
+      "name": "jkun",
+      "type": 3,
+      "url": "https://www.jkunzyjx.com/?url="
+    },
+    
     {
       "name": "豆瓣",
       "type": 3,
