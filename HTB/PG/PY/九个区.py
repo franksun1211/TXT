@@ -1,40 +1,143 @@
 # coding=utf-8
-#!/usr/bin/python
 import sys
 sys.path.append('..')
 from base.spider import Spider
 import json
-import time
 import urllib.parse
 import re
-import requests
 from lxml import etree
 
 class Spider(Spider):
-    
     def getName(self):
-        return "香蕉视频"
+        return "香蕉視頻"
     
     def init(self, extend=""):
+        # 建議使用穩定域名，若失效需更換
         self.host = "https://618013.xyz"
         self.api_host = "https://h5.xxoo168.org"
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'Accept-Encoding': 'gzip, deflate',
-            'Connection': 'keep-alive',
-            'Referer': self.host
+            'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+            'Referer': self.host,
+            'Connection': 'keep-alive'
         }
-        self.log(f"香蕉视频爬虫初始化完成，主站: {self.host}")
+        self.log(f"香蕉視頻初始化完成")
+
+    def homeContent(self, filter):
+        result = {}
+        # 保持你原有的分類列表
+        classes = [
+            {'type_id': '618013.xyz_1', 'type_name': '全部視頻'},
+            {'type_id': '618013.xyz_13', 'type_name': '香蕉精品'},
+            {'type_id': '618013.xyz_6', 'type_name': '国产视频'},
+            {'type_id': '618013.xyz_33', 'type_name': '中文字幕'},
+            {'type_id': '618013.xyz_32', 'type_name': '国产自拍'}
+        ]
+        result['class'] = classes
+        try:
+            # 增加 verify=False 避免部分環境下 SSL 握手失敗
+            rsp = self.fetch(self.host, headers=self.headers)
+            doc = self.html(rsp.text)
+            result['list'] = self._get_videos(doc, limit=20)
+        except Exception as e:
+            self.log(f"首頁出錯: {e}")
+        return result
+
+    def categoryContent(self, tid, pg, filter, extend):
+        try:
+            domain, type_id = tid.split('_')
+            url = f"https://{domain}/index.php/vod/type/id/{type_id}/page/{pg}.html"
+            rsp = self.fetch(url, headers=self.headers)
+            doc = self.html(rsp.text)
+            videos = self._get_videos(doc)
+            
+            # 修正分頁邏輯
+            pagecount = pg
+            pg_links = doc.xpath('//div[contains(@class,"page")]//a/@href')
+            if pg_links:
+                last_url = pg_links[-1]
+                total = self.regStr(r'page/(\d+)', last_url)
+                pagecount = total if total else pg
+
+            return {
+                'list': videos,
+                'page': int(pg),
+                'pagecount': int(pagecount),
+                'limit': 20,
+                'total': int(pagecount) * 20
+            }
+        except:
+            return {'list': []}
+
+    def playerContent(self, flag, id, vipFlags):
+        """優化播放邏輯，增加 API 失敗後的自動跳轉"""
+        try:
+            # 移除前綴獲取原始 ID
+            video_id = id.split('_')[-1] if '_' in id else id
+            
+            # 優先嘗試 H5 API (通常返回直鏈)
+            api_url = f"{self.api_host}/api/v2/vod/reqplay/{video_id}"
+            api_headers = self.headers.copy()
+            api_headers.update({'Origin': self.host})
+            
+            rsp = self.fetch(api_url, headers=api_headers)
+            if rsp and rsp.status_code == 200:
+                data = rsp.json()
+                # 判斷是否為預覽或完整視頻
+                v_url = data.get('data', {}).get('httpurl', '') or data.get('data', {}).get('httpurl_preview', '')
+                if v_url:
+                    # 某些播放器不支持帶有 ?300 的參數，去除它
+                    real_url = v_url.split('?')[0] if '?' in v_url else v_url
+                    return {'parse': 0, 'url': real_url, 'header': self.headers}
+
+            # 如果 API 失敗，返回網頁解析模式（OK 影視會自動嘗試調用內建解析）
+            play_url = f"{self.host}/index.php/vod/play/id/{video_id}/sid/1/nid/1.html"
+            return {'parse': 1, 'url': play_url, 'header': self.headers}
+        except:
+            return {'parse': 1, 'url': id}
+
+    def _get_videos(self, doc, limit=None):
+        if doc is None: return []
+        videos = []
+        # 定位所有影片卡片
+        elements = doc.xpath('//a[@class="vodbox"]')
+        for elem in elements:
+            try:
+                href = elem.xpath('./@href')[0]
+                vod_id = self.regStr(r'id/(\d+)', href)
+                
+                # 標題解密
+                title_encrypted = elem.xpath('.//p[@class="km-script"]/text()')
+                name = self._decrypt_title(title_encrypted[0]) if title_encrypted else "未知影片"
+                
+                # 圖片處理
+                img = elem.xpath('.//img/@data-original') or elem.xpath('.//img/@src')
+                pic = img[0] if img else ""
+                if pic.startswith('//'): pic = "https:" + pic
+                elif pic.startswith('/'): pic = self.host + pic
+
+                videos.append({
+                    'vod_id': f"618013.xyz_{vod_id}",
+                    'vod_name': name,
+                    'vod_pic': pic,
+                    'vod_remarks': elem.xpath('.//span[@class="pic-text"]/text()')[0] if elem.xpath('.//span[@class="pic-text"]') else ""
+                })
+            except:
+                continue
+        return videos[:limit] if limit else videos
+
+    def _decrypt_title(self, encrypted_text):
+        """標題解密邏輯保持不變 (XOR 128)"""
+        try:
+            return ''.join([chr(ord(c) ^ 128) for c in encrypted_text])
+        except:
+            return encrypted_text
 
     def html(self, content):
-        """将HTML内容转换为可查询的对象"""
-        try:
-            return etree.HTML(content)
-        except:
-            self.log("HTML解析失败")
-            return None
+        return etree.HTML(content) if content else None
+
+    def regStr(self, pattern, string):
+        match = re.search(pattern, string)
+        return match.group(1) if match else ""            return None
 
     def regStr(self, pattern, string, index=1):
         """正则表达式提取字符串"""
