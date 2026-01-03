@@ -20,21 +20,153 @@ class Spider(Spider):
         self.api_host = "https://h5.xxoo168.org"
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-            'Accept-Encoding': 'gzip, deflate',
-            'Connection': 'keep-alive',
             'Referer': self.host
         }
-        self.log(f"香蕉视频爬虫初始化完成，主站: {self.host}")
+        self.log(f"香蕉视频爬蟲初始化完成")
 
     def html(self, content):
-        """将HTML内容转换为可查询的对象"""
         try:
             return etree.HTML(content)
         except:
-            self.log("HTML解析失败")
             return None
+
+    def regStr(self, pattern, string, index=1):
+        try:
+            match = re.search(pattern, string, re.IGNORECASE)
+            if match and len(match.groups()) >= index:
+                return match.group(index)
+        except:
+            pass
+        return ""
+
+    def homeContent(self, filter):
+        result = {}
+        classes = [
+            {'type_id': '618013.xyz_1', 'type_name': '全部视频'},
+            {'type_id': '618013.xyz_13', 'type_name': '香蕉精品'},
+            {'type_id': '618013.xyz_6', 'type_name': '国产视频'},
+            {'type_id': '618013.xyz_33', 'type_name': '中文字幕'},
+            {'type_id': '618013.xyz_32', 'type_name': '国产自拍'}
+        ]
+        result['class'] = classes
+        try:
+            rsp = self.fetch(self.host, headers=self.headers)
+            doc = self.html(rsp.text)
+            result['list'] = self._get_videos(doc, limit=20)
+        except:
+            result['list'] = []
+        return result
+
+    def categoryContent(self, tid, pg, filter, extend):
+        try:
+            domain, type_id = tid.split('_')
+            url = f"https://{domain}/index.php/vod/type/id/{type_id}.html"
+            if pg and pg != '1':
+                url = url.replace('.html', f'/page/{pg}.html')
+            
+            rsp = self.fetch(url, headers=self.headers)
+            doc = self.html(rsp.text)
+            videos = self._get_videos(doc)
+            
+            # 微調：更穩定的分頁獲取方式
+            pagecount = pg
+            pages = doc.xpath('//div[@class="mypage"]//a[contains(@href, "page")]/@href')
+            if pages:
+                last_pg = self.regStr(r'page/(\d+)', pages[-1])
+                if last_pg: pagecount = last_pg
+            
+            return {
+                'list': videos,
+                'page': int(pg),
+                'pagecount': int(pagecount),
+                'limit': 20,
+                'total': int(pagecount) * 20
+            }
+        except:
+            return {'list': []}
+
+    def detailContent(self, ids):
+        try:
+            vid = ids[0]
+            video_id = vid.split('_')[-1] if '_' in vid else vid
+            detail_url = f"{self.host}/index.php/vod/detail/id/{video_id}.html"
+            
+            rsp = self.fetch(detail_url, headers=self.headers)
+            doc = self.html(rsp.text)
+            
+            # 使用原本的解析邏輯
+            title = doc.xpath('//h1/text()')[0].strip() if doc.xpath('//h1/text()') else "未知"
+            pic = doc.xpath('//div[@class="dyimg"]//img/@src')[0] if doc.xpath('//div[@class="dyimg"]//img/@src') else ""
+            if pic.startswith('/'): pic = self.host + pic
+
+            video_info = {
+                'vod_id': vid,
+                'vod_name': title,
+                'vod_pic': pic,
+                'vod_play_from': '香蕉雲',
+                'vod_play_url': f"立即播放${vid}"
+            }
+            return {'list': [video_info]}
+        except:
+            return {'list': []}
+
+    def playerContent(self, flag, id, vipFlags):
+        """核心復原：確保播放連結正確返回"""
+        try:
+            video_id = id.split('_')[-1] if '_' in id else id
+            api_url = f"{self.api_host}/api/v2/vod/reqplay/{video_id}"
+            
+            # OK 影視通常需要特定的 Referer
+            api_headers = self.headers.copy()
+            api_headers.update({'Origin': self.host})
+            
+            api_response = self.fetch(api_url, headers=api_headers)
+            if api_response:
+                data = api_response.json()
+                # 同時檢查 httpurl 和 httpurl_preview (重要：很多是試看版)
+                video_url = data.get('data', {}).get('httpurl') or data.get('data', {}).get('httpurl_preview')
+                
+                if video_url:
+                    # 去掉 URL 中的多餘參數（?300），這常導致 OK 影視無法識別格式
+                    video_url = video_url.split('?')[0] if '.m3u8' in video_url else video_url
+                    return {'parse': 0, 'playUrl': '', 'url': video_url, 'header': ''}
+            
+            # 萬一 API 沒給地址，回退到原始播放頁嘗試
+            return {'parse': 1, 'url': f"{self.host}/index.php/vod/play/id/{video_id}.html"}
+        except:
+            return {'parse': 1, 'url': id}
+
+    def _get_videos(self, doc, limit=None):
+        videos = []
+        if doc is None: return videos
+        elements = doc.xpath('//a[@class="vodbox"]')
+        for elem in elements:
+            try:
+                href = elem.xpath('./@href')[0]
+                vod_id = self.regStr(r'id/(\d+)', href)
+                
+                # 關鍵：標題解密（保持你原本的邏輯）
+                title_elem = elem.xpath('./p[@class="km-script"]/text()')
+                name = self._decrypt_title(title_elem[0]) if title_elem else "未知"
+                
+                pic = elem.xpath('.//img/@data-original')[0] if elem.xpath('.//img/@data-original') else ""
+                if pic.startswith('/'): pic = self.host + pic
+
+                videos.append({
+                    'vod_id': f"618013.xyz_{vod_id}",
+                    'vod_name': name,
+                    'vod_pic': pic,
+                    'vod_remarks': ''
+                })
+            except:
+                continue
+        return videos[:limit] if limit else videos
+
+    def _decrypt_title(self, encrypted_text):
+        try:
+            return ''.join([chr(ord(char) ^ 128) for char in encrypted_text])
+        except:
+            return encrypted_text            return None
 
     def regStr(self, pattern, string, index=1):
         """正则表达式提取字符串"""
