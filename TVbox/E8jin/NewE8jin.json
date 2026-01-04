@@ -1,7 +1,7 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin] 🐦 20260104  🐶",
+    "notice": "[New-E8jin] 🐦 20260104-A 🐶",
     "sites": [
         {
             "key": "✨豆瓣✨",
@@ -51,7 +51,7 @@
         },
         {
             "key": "js_madou",
-            "name": "麻豆(js)",
+            "name": "✨麻豆(js)✨",
             "type": 3,
             "api": "https://c.cxics.com/fc/madou.js",
             "searchable": 1,
@@ -108,16 +108,7 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/唐人影视.json"
         },
-        {
-            "key": "py_Miss",
-            "name": "🔞MissAV(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=Miss",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
+        
        
         {
             "key": "✨Pornhub✨",
@@ -191,16 +182,7 @@
         },
       
         
-        {
-            "key": "✨黑料弹幕版✨",
-            "name": "✨黑料弹幕版✨",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/黑料弹幕版.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "✨好色TV✨",
             "name": "✨好色TV✨",
@@ -287,30 +269,8 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/草草视频.json"
         },
-        {
-            "key": "✨啊哈DJ网✨",
-            "name": "✨Aries|啊哈DJ网✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/啊哈DJ网.json"
-        },
-        {
-            "key": "✨7ddav✨",
-            "name": "✨Aries|7ddav✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/7ddav.json"
-        },
+        
+       
         {
             "key": "✨以茎制洞✨",
             "name": "✨Aries|YJZD✨",
