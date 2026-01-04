@@ -1,7 +1,7 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin] 😍 20260103  🐶",
+    "notice": "[New-E8jin] 🐦 20260104  🐶",
     "sites": [
         {
             "key": "✨豆瓣✨",
@@ -118,17 +118,7 @@
             "filterable": 0,
             "changeable": 0
         },
-        {
-            "key": "lf_live10_min",
-            "name": "📀冰茶 | 直播",
-            "type": 3,
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "api": "https://www.mpimg.cn/down.php/2d77041713667d455ae2bb69323e9807.js",
-            "ext": "https://www.97pan.cn/f/5gQIy/yszb.png"
-        },
+       
         {
             "key": "✨Pornhub✨",
             "name": "✨Pornhub✨",
@@ -164,26 +154,7 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/那个搜索.json"
         },
-        {
-            "key": "✨UVod✨",
-            "name": "✨UVod✨",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/UVod.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "✨努努影院✨",
-            "name": "✨努努影院✨",
-            "type": 3,
-            "api": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/PY/努努影院.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "✨九个区✨",
             "name": "✨九个区✨",
@@ -219,30 +190,7 @@
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/水果派解说.json"
         },
       
-        {
-            "key": "✨爱你影视✨",
-            "name": "✨爱你影视✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/爱你影视.json"
-        },
-        {
-            "key": "✨影视大全✨",
-            "name": "✨影视大全✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/影视大全.json"
-        },
+        
         {
             "key": "✨黑料弹幕版✨",
             "name": "✨黑料弹幕版✨",
@@ -326,27 +274,7 @@
             "order_num": 5,
             "ext": ""
         },
-        {
-            "key": "✨皮皮妖影视✨",
-            "name": "✨皮皮妖|影视✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xbpq.jar",
-            "ext": {
-                "分类url": "https://www.pipiyao.cc/type/{cateId}.html"
-            }
-        },
-        {
-            "key": "✨努努影院✨",
-            "name": "✨努努影院✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/XBPQ.jar",
-            "ext": {
-                "分类url": "https://nnyy.in/{cateId}/?year={year}&country={area}&genre={class};;mrc"
-            }
-        },
+       
         {
             "key": "✨草草视频✨",
             "name": "✨草草视频✨",
@@ -385,7 +313,7 @@
         },
         {
             "key": "✨以茎制洞✨",
-            "name": "✨Aries|以茎制洞✨",
+            "name": "✨Aries|YJZD✨",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -440,17 +368,7 @@
                 "ratio": 1.77
             }
         },
-        {
-            "key": "✨Guazi✨",
-            "name": "✨瓜子|App✨",
-            "type": 3,
-            "api": "csp_Guazi",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": ""
-        },
+        
         {
       "key": "JKUN(采集)",
       "name": "🔞JKUN",
