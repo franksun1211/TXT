@@ -1,6 +1,6 @@
 
 {
-    "notice": "[SMR]20260609 🐒",,
+    "notice": "[SMR]20260609-A 🐒",,
    "wallpaper":"https://深色壁纸.xxooo.cf/",
    "sites":[
       
@@ -10,38 +10,7 @@
 
 
 
-{
-            "key": "✨高清福利社✨",
-            "name": "🏆✨高清福利社✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/高清福利社.json"
-        },
 
- {
-      "key": "麻豆",
-      "name": "✨成人專區✨",
-      "type": 3,
-      "changeable": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": {
-        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类": "麻豆视频$1#日本视频$2#國產視頻$3",
-        "剧情": "大乳房&体内射精&水手服&紧身衣&单一作品&荡妇&脏话&女同性恋&业余&角色扮演&和服&女教师&连裤袜||麻豆&天美&蜜桃&皇家&精东&星空&萝莉社&糖心Vlog&乐播&兔子先生&杏吧&果冻&PsychoPorn||萝莉&大奶&交内射&吞精&勾搭&骚穴&车震&约炮&骚货&母狗&捆绑&调教",
-        "直接播放": "1"
-      }
-    },
 
 {"key": "Supjav",
     "name": "🔞Supjav",
