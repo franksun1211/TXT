@@ -1,7 +1,7 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin]20260609-B 🐒",
+    "notice": "[New-E8jin]20260609-A 🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
@@ -38,21 +38,7 @@
         "ratio": 1.777
     }
 },
-{
-            "key": "csp_XYQHiker_黄色仓库123",
-            "name": "🔞黄色仓库",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/SMR/jar/hsck.png",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },        
+
         {
       "key": "Zuise",
       "name": "🏆✨最色✨",
