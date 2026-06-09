@@ -1,7 +1,7 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin]20260424-A 🐒",
+    "notice": "[New-E8jin]20260609 🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
@@ -25,6 +25,20 @@
             "filterable": 1,
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/高清福利社.json"
         },
+        {"key": "Supjav",
+    "name": "🔞Supjav",
+    "type": 3,
+    "api": "csp_Supjav",
+    "jar":"https://od.lk/s/NjFfMTI2MzM0NTE4Xw/xc0126.png",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "style": {
+        "type": "rect",
+        "ratio": 1.777
+    }
+},
+        
         {
       "key": "Zuise",
       "name": "🏆✨最色✨",
