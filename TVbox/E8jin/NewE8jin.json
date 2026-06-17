@@ -1,7 +1,7 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin]20260609-B 🐒",
+    "notice": "[New-E8jin]20260617 🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
@@ -26,7 +26,7 @@
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/高清福利社.json"
         },
         {"key": "Supjav",
-    "name": "🔞Supjav",
+    "name": "🏆✨Supjav✨",
     "type": 3,
     "api": "csp_Supjav",
     "jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/SMR/jar/xc0126.png",
@@ -39,6 +39,63 @@
     }
 },
  {
+      "key": "MissAV",
+      "name": "🏆✨MissAV✨",
+      "type": 3,
+      "jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/gm/Spiders-Lib/GM.jar",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.49
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./userScripts/missav.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.ico",
+            "*.png",
+            "*.css",
+            "*.svg",
+            "https://*.cloudflareinsights.com/*",
+            "https://*.googletagmanager.com/*",
+            "https://*.ktkjmp.com/*",
+            "https://*.magsrv.com/*",
+            "https://*.mnaspm.com/*",
+            "https://*.myavlive.com/*",
+            "https://*.recombee.com/*",
+            "https://*.rmhfrtnd.com/*",
+            "https://*.trackwilltrk.com/*",
+            "https://*.tsyndicate.com/*",
+            "https://missav.com/fonts/*",
+            "https://tsyndicate.com/*",
+            "https://hartattenuate.com/*"
+          ]
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://missav.ws/cn/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://missav.ws/cn/${tid}?page=${pg:-1}${filter:-}${sort:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://missav.ws/cn/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://missav.ws/cn/search/${key}?page=${pg:-1}"
+          }
+        }
+      }
+    },
+        
+        {
       "key": "麻豆",
       "name": "✨成人專區✨",
       "type": 3,
