@@ -4,8 +4,8 @@
     "notice": "[New-E8jin]20260715 🐒",
     "sites": [
         {
-            "key": "✨豆瓣✨[0715/更新]",
-            "name": "✨豆瓣✨",
+            "key": "✨豆瓣✨",
+            "name": "✨豆瓣✨[0715/更新]",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
