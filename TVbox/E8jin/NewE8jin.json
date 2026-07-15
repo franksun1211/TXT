@@ -1,10 +1,10 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin]20260618 🐒",
+    "notice": "[New-E8jin]20260715 🐒",
     "sites": [
         {
-            "key": "✨豆瓣✨[0618/更新]",
+            "key": "✨豆瓣✨[0715/更新]",
             "name": "✨豆瓣✨",
             "type": 3,
             "api": "csp_Douban",
@@ -29,7 +29,9 @@
     "name": "🏆✨Supjav✨",
     "type": 3,
     "api": "csp_Supjav",
-    "jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/SMR/jar/xc0126.png",
+    //"jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/SMR/jar/xc0126.png",
+            
+    "jar":"https://od.lk/s/NjFfMTI2MzM0NTE4Xw/xc0126.png",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
