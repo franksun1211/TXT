@@ -1,11 +1,11 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "🐒[New-E8jin]20260720 🐒",
+    "notice": "🐒[New-E8jin]20260720-A 🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
-            "name": "✨豆瓣✨[0720/更新]",
+            "name": "✨豆瓣✨[0720-A/更新]",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -125,7 +125,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
+            "ext": "https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
