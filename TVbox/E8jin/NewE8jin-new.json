@@ -1,11 +1,11 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin]20260715 🐒",
+    "notice": "[New-E8jin]20260720 🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
-            "name": "✨豆瓣✨[0715/更新]",
+            "name": "✨豆瓣✨[0720/更新]",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -116,6 +116,223 @@
         "直接播放": "1"
       }
     },
+     {
+            "key": "csp_XYQHiker_黄色仓库123",
+            "name": "🔞黄色仓库",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://od.lk/s/NjFfMTI2ODU2MjY2Xw/hsck.png",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+{
+            "key": "禁片天堂.py",
+            "name": "🈲🔞禁片天堂.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTE2ODE4OTc1Xw/kptt.py",
+            "order_num": 5,
+            "ext": ""
+        }, 
+
+{
+            "key": "愛豆AV.py",
+            "name": "🔞愛豆AV.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://od.lk/s/NjFfMTI3MDg3ODE2Xw/%E6%84%9B%E8%B1%86AV.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+      "key": "kk",
+      "name": "🔞KK",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+         "key":"🈲🔞大地X资源站",
+         "name":"🈲🔞大地X资源站",
+         "type":0,
+         "api":"https://dadiapi.com/api.php/provide/vod/",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+    },
+{
+      "key": "alvin",
+      "name": "🔞Alvin
+",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+    },
+   {
+      "key": "xx",
+      "name": "🔞XX",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+    {
+      "key": "🔞精品X_CMS",
+      "name": "🔞精品X┃CMS",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+        {
+      "key": "🔞黄色仓库_CMS",
+      "name": "🔞黄色仓库┃CMS",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+         {
+      "key": "🔞杏吧_CMS",
+      "name": "🔞杏吧┃CMS",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+        {
+      "key": "🔞奶香香_CMS",
+      "name": "🔞奶香香┃CMS",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "🔞森林_CMS",
+      "name": "🔞森林┃CMS",
+      "type": 1,
+      "api": "http://slapibf.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "🔞番茄_CMS",
+      "name": "🔞番茄┃CMS",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+        {
+      "key": "🔞91麻豆_CMS",
+      "name": "🔞91麻豆┃CMS",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+         {
+      "key": "🔞黑料X_CMS",
+      "name": "🔞黑料X┃CMS",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+        {
+            "key": "Jable",
+            "name": "🔞Jable（翻）",
+            "playUrl": "json:http://127.0.0.1:7891/parse/?thread=0&proxy=&url=",
+            "type": 3,
+            "jar": "https://github.com/ge6bu6/TV-BOX/raw/main/纯福利/jar/pg.jar",
+            "api": "csp_Jable",
+            "searchable": 0,
+            "recordable": 0
+        },
+         {
+            "key": "Zuise",
+            "name": "㊙️┃ZUISE (墙)",
+            "type": 3,
+            "api": "csp_Zuise",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "null$$$null$$$1",
+            "jar": "https://github.com/ge6bu6/TV-BOX/raw/main/纯福利/jar/moyu.jar"
+        },
+        {
+            "key": "野鸡🐔TV",
+            "name": "野鸡🐔TV",
+            "type": 3,
+            "jar": "https://github.com/ge6bu6/TV-BOX/raw/main/纯福利/jar/xyqxbpq.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://wap.yejiav2.cc/yj/",
+                "数组": "vod-img&&/div></div>",
+                "标题": "🐔+vod-txt*\">&&</a",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<p&&/p>",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://4g.yejiav16.cc/yj/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "线路标题": "你就是个老色痞",
+                "播放数组": "<div class=\"group-box\"&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&</",
+                "播放链接": "href=\"&&\"",
+                "分类": "奥斯卡资源$119#野鸡资源$86#仓库资源$206#155资源$244#小鸡资源$225#国产精品$87#国产乱伦$90#日本无码$228#日本有码$109",
+                "类型": "国产视频$120#中文字幕$121#国产传媒$122#日本有码$123#日本无码$124#欧美无码$125#强干乱伦$126#制服诱惑$127#国产主播$128#激情动漫$129#明星换脸$130#抖阴视频$131#女优明星$132#网曝黑料$133#伦理三级$134#SM调教$135#极品魅黑$136#网红头条$137#韩国主播$138||兔子先生$96#杏吧传媒$95#麻豆传媒$94#香港三级$93#明星淫梦$92#美女主播$91#国产乱伦$90#国产探花$89#绿帽淫妻$88#国产精品$87#天美传媒$97#SA国际传媒$98#其他片商$99#中文字幕$100#性世界$101#扣扣传媒$102#果冻传媒$103#星空无线$104#精东影业$105#葫芦影业$106#蜜桃传媒$107#起点传媒$108#日本有码$109#高清无码$110#精品素人$111#精品动漫$112#欧美专区$113#怀旧av$114#SWAG$115#特色专区$116#网曝门事件$117#日本乱伦$118||日本有码$207#无码中文字幕$208#有码中文字幕$209#日本无码$210#国产视频$211#欧美高清$212#动漫剧情$213||AV解说$266#国产自拍$254#熟女人妻$255#萝莉少女$256#百合剧情$257#美乳巨乳$258#强歼乱伦$259#抖音视频$260#韩国主播$261#网红头条$262#网曝黑料$263#欧美无码$264#女优明星$265#欧美系列$252#卡通动漫$251#中文字幕$250#AI换脸$249#三级伦理$248#制服诱惑$247#麻豆传媒$246#无码专区$245#美女主播$253||男男$226#女女$227#日本无码$228#中文有码$229#黑人无码$230#欧美无码$231#海外主播$232#国产视频$233#明星换脸$234#萝莉少女$235#网红主播$236#探花系列$237#传媒拍摄$238#伦理三级$239#网曝黑料$240#激情动漫$241#VR视角$242#解说类$243||空||空||空||空"
+            }
+        },
+        {
+            "key": "csp_XYQHiker_javtsunami",
+            "name": "🔞javtsunami",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://github.com/ge6bu6/TV-BOX/raw/main/纯福利/jar/xyq.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javtsunami.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_kanav",
+            "name": "🔞KANAV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://github.com/ge6bu6/TV-BOX/raw/main/纯福利/jar/xyq.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/kanav.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
         {
       "key": "Zuise",
       "name": "🏆✨最色✨",
