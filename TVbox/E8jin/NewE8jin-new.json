@@ -1,11 +1,11 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "🐒[New-E8jin]20260720-A 🐒",
+    "notice": "🐒[New-E8jin]20260725🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
-            "name": "✨豆瓣✨[0720-A/更新]",
+            "name": "✨豆瓣✨[0725更新]",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -451,7 +451,7 @@
     },
     {
       "key": "supjav",
-      "name": "🏆✨SupJav✨",
+      "name": "🏆✨SupJav-old✨",
       "type": 3,
       "quickSearch": 0,
       "searchable": 1,
