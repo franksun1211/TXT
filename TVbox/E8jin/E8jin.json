@@ -75,10 +75,10 @@
     },
      
     {
-      "key": "py_xiaoji.py",
-      "name": "小雞",
+      "key": "黄豆短剧.py",
+      "name": "黃豆",
       "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/py_xiaoji.py",
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/18py/py/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
