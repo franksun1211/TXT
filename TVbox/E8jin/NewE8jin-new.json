@@ -1,11 +1,11 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "🐒[New-E8jin]20260725🐒",
+    "notice": "🍑🐒[New-E8jin]20260726🐒🍑",
     "sites": [
         {
             "key": "✨豆瓣✨",
-            "name": "✨豆瓣✨[0725更新]",
+            "name": "✨豆瓣✨[0726更新]",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -15,7 +15,7 @@
         },
           {
             "key": "✨高清福利社✨",
-            "name": "🏆✨高清福利社✨",
+            "name": "🏆🍑✨高清福利社✨🍑",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -26,7 +26,7 @@
             "ext": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/json/高清福利社.json"
         },
         {"key": "Supjav",
-    "name": "🏆✨Supjav✨",
+    "name": "🏆🍑✨Supjav✨🍑",
     "type": 3,
     "api": "csp_Supjav",
     //"jar":"https://github.com/franksun1211/TXT/raw/main/TVbox/SMR/jar/xc0126.png",
@@ -261,7 +261,28 @@
             "searchable": 0,
             "recordable": 0
         },
-         {
+        {
+			"key": "wddj",
+			"name": "🐬黄豆短剧.py 有🔞",
+            "jar": "https://github.com/FGBLH/HKL/raw/main/tvbox.jar",
+            "type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/黄豆短剧.py"
+		}, 
+{
+			"key": "啪啪视频",
+			"name": "🐬啪啪视频.py 有🔞",
+            "jar": "https://github.com/FGBLH/HKL/raw/main/tvbox.jar",
+            "type": 3,
+			"api": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/18py/py/啪啪视频.py"
+		}, 
+        {
+			"key": "线上看女优",
+			"name": "🐬线上看女优🔞",
+            "jar": "https://github.com/FGBLH/HKL/raw/main/tvbox.jar",
+            "type": 3,
+			"api": "https://github.com/franksun1211/TXT/raw/main/TVbox/SMR/json/线上看女优.json"
+		}, 
+        {
             "key": "Zuise",
             "name": "㊙️┃ZUISE (墙)",
             "type": 3,
