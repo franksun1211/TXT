@@ -1,17 +1,31 @@
 {
   "spider": "",
   "wallpaper": "http://tool.teyonds.com/api",
+  "notice": "🐬[dolphin18]202608026🐬",
   
   "sites": [
+      {
+      "key": "missav",
+      "name": "🐬[成人]MISSAV🔞",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/missav🔞.js"
+    }, 
+    {
+      "key": "wddj",
+      "name": "🐬[成人短剧]黄豆短剧.py🔞",
+      "type": 3,
+      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/黄豆短剧.py"
+    },
+    
     {
       "key": "UVOD",
-      "name": "🐬[成人]优视频.py 有🔞海豚影视接口完全免费，请勿上当受骗",
+      "name": "🐬[成人]优视频.py🔞",
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/优视频.py"
     },
     {
       "key": "xyzkk",
-      "name": "🐬[伦理]小鸭子看看.py 有🔞海豚影视交流群 TG：@hshsjk9",
+      "name": "🐬[伦理]小鸭子看看.py🔞",
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/小鸭子看看.py"
     },
@@ -91,12 +105,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "wddj",
-      "name": "🐬[成人短剧]黄豆短剧.py 有🔞",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/黄豆短剧.py"
-    },
+   
     {
       "key": "51短剧",
       "name": "🐬[成人短剧]51短剧.py｜🔞",
@@ -463,12 +472,7 @@
       "type": 3,
       "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/9g88x🔞.py"
     },
-    {
-      "key": "missav",
-      "name": "🐬[成人]missav.js｜🔞",
-      "type": 3,
-      "api": "https://github.com/franksun1211/TXT/raw/main/TVbox/dolphin18/ext/missav🔞.js"
-    },
+  
     {
       "key": "夜色",
       "name": "🐬[成人]夜色.py｜🔞",
