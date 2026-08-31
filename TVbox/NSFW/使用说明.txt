@@ -1,0 +1,10 @@
+本地包使用说明
+
+本地包由公众号肥猫捡漏免费制作 更多资源请关注肥猫捡漏获取
+
+本地包使用接口地址
+
+类型    说明        示例
+远程    HTTP/HTTPS 直链    https://xxx.com/tvbox_local_20260831_125432/tvbox.json
+本地    file 协议         file:///storage/emulated/0/tvbox_local_20260831_125432/config.json
+clan    局域网            clan://localhost/tvbox_local_20260831_125432/config.json

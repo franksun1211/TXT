@@ -1,0 +1,413 @@
+{
+  "spider": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/jar/GM.jar",
+  "sites": [
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/jable.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://jable.tv/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://jable.tv/videos/${id}/"
+          },
+          "searchContent": {
+            "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
+          }
+        }
+      }
+    },
+    
+    {
+      "key": "AV01",
+      "name": "✨AV01",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/av01.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true,
+          "allowList": [
+            "https://*.iw01.xyz/*"
+          ]
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://www.av01.media/cn"
+          },
+          "categoryContent": {
+            "loadUrl": "https://www.av01.media/cn/${tid}?tags=${tag:-}&makers=${maker:-}&page=${pg:-1}"
+          },
+          "detailContent": {
+            "loadUrl": "https://www.av01.media/cn/video/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://www.av01.media/cn/search?q=${key}&page=${pg:-1}"
+          }
+        }
+      }
+    },
+    {
+      "key": "123av",
+      "name": "123AV",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/123av.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true,
+          "allowList": [
+            "https://*/*.m3u8*"
+          ]
+        },
+        "playUrlMatch": [
+          "https://*/v.m3u8*"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://123av.com/cn"
+          },
+          "categoryContent": {
+            "loadUrl": "https://123av.com/cn/${tid}?sort=${sort:-}&page=${pg:-1}&type=${type:-}&actress=${actress:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://123av.com/cn/v/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://123av.com/cn/search?keyword=${key}&page=${pg:-1}"
+          }
+        }
+      }
+    },
+    {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.49
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/missav.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://missav.ws/cn/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://missav.ws/cn/${tid}?page=${pg:-1}${filter:-}${sort:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://missav.ws/cn/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://missav.ws/cn/search/${key}?page=${pg:-1}"
+          }
+        }
+      }
+    },
+    {
+      "key": "Javtiful",
+      "name": "✨Javtiful",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/javtiful.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://javtiful.com/zh/main"
+          },
+          "categoryContent": {
+            "loadUrl": "https://javtiful.com/zh/${tid}?sort=${sort:-}&page=${pg:-1}"
+          },
+          "detailContent": {
+            "loadUrl": "https://javtiful.com/zh/video/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://javtiful.com/zh/search?q=${key}&page=${pg:-1}"
+          }
+        }
+      }
+    },
+    {
+      "key": "JAVGG",
+      "name": "✨JAVGG",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 0.71
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/javgg.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true,
+          "allowList": [
+            "https://ajax.googleapis.com/*",
+            "https://*.jwpcdn.com/*",
+            "https://*.turbo*.com/*"
+          ]
+        },
+        "playUrlMatch": [
+          "https://earnvidjav*/*/master.m3u8",
+          "https://*.turbosplayer.com/*/master.m3u8",
+          "https://streamhgjav.online/*/master.m3u8",
+          "https://javstreamhq.xyz/*/master.m3u8"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://javgg.net/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://javgg.net/${tid}/page/${pg:-1}/?sort=${sort:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://javgg.net/jav/${id}/"
+          },
+          "searchContent": {
+            "loadUrl": "https://javgg.net/?s=${key}&page=${pg:-1}"
+          }
+        }
+      }
+    },
+    {
+      "key": "supjav",
+      "name": "SupJav",
+      "type": 3,
+      "quickSearch": 0,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/supjav.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true,
+          "allowList": [
+            "https://*.supremejav.com/*",
+            "https://fc2stream.tv/*",
+            "https://ajax.googleapis.com/*",
+            "https://*.jwpcdn.com/*"
+          ]
+        },
+        "playUrlMatch": [
+          "https://fc2stream.tv/*/master.m3u8",
+          "https://*turbovi*/*.m3u8*",
+          "https://streamtape.com/get_video*",
+          "https://*.tapecontent.net/*",
+          "https://*.cloudwindow-route.com/*/index-v1-a1.m3u8*"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://supjav.com/zh/popular"
+          },
+          "categoryContent": {
+            "loadUrl": "https://supjav.com/zh/${tid}/page/${pg:-1}?sort=${sort:-quantity}"
+          },
+          "detailContent": {
+            "loadUrl": "https://supjav.com/zh/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://supjav.com/zh/page/${pg:-1}?s=${key}"
+          }
+        }
+      }
+    },
+    {
+      "key": "XOJAV",
+      "name": "XOJAV",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/xojav.user.js",
+        "subtitle": true,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://xojav.tv/?lang=zh"
+          },
+          "categoryContent": {
+            "loadUrl": "https://xojav.tv/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
+          },
+          "detailContent": {
+            "loadUrl": "https://xojav.tv/videos/${id}"
+          },
+          "searchContent": {
+            "loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
+          }
+        }
+      }
+    },
+    {
+      "key": "HuangGuoAi",
+      "name": "✨黄果短剧",
+      "type": 3,
+      "quickSearch": 0,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/huangguoai.user.js",
+        "webViewSettings": {
+          "blockNetworkImage": false,
+          "blockCssAndFont": true,
+          "allowList": [
+            "https://*.yrfmba.cn/*"
+          ]
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://huangguoai.com/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://huangguoai.com/${tid}/${pg:-1}/"
+          },
+          "detailContent": {
+            "loadUrl": "https://huangguoai.com/detail/${id}/"
+          },
+          "playerContent": {
+            "loadUrl": "${url}"
+          },
+          "searchContent": {
+            "loadUrl": "https://huangguoai.com/search/video/${key}/"
+          }
+        }
+      }
+    },
+    {
+      "key": "netflav",
+      "name": "⛔NETFLAV",
+      "type": 3,
+      "quickSearch": 0,
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.48
+      },
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://github.com/franksun1211/TXT/raw/main/TVbox/NSFW/ext/netflav.user.js",
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockCssAndFont": true
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://netflav.com/trending"
+          },
+          "categoryContent": {
+            "loadUrl": "https://netflav.com/${tid}&page=${pg:-1}${range:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://netflav.com/video?id=${id}/"
+          },
+          "searchContent": {
+            "loadUrl": "https://netflav.com/search?keyword=${key}&page=${pg:-1}&type=title"
+          }
+        }
+      }
+    }
+  ]
+}
