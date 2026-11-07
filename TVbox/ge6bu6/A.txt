@@ -1,0 +1,26 @@
+私密頻道,#genre#
+
+松视(A),http://125.227.210.55:1022/VideoInput/play.ts
+奧視2(A),http://125.227.210.55:3031/VideoInput/play.ts
+奧視2(A),http://125.227.210.55:1022/VideoInput/play.ts
+香蕉台(A),http://125.227.210.55:1009/VideoInput/play.ts
+驚豔台(A),http://125.227.210.55:3016/VideoInput/play.ts
+Sex girl(A),http://125.227.210.55:3031/VideoInput/play.ts
+
+俄罗斯极限电影台(B),http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
+香蕉台(B),http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
+CARAC1(B),http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+CARAC5(B),https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
+DMF(B),https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+
+Babes(C),http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+Brazzers(C),http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Extasy(C),http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Desire(C),http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Erox(C),http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Eroxxx(C),http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Dorcel(C),http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Leo HD(C),http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Leo Gold(C),http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
+Dusk(C),http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+Reality Kings(C),http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
